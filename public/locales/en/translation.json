@@ -1,0 +1,402 @@
+{
+  "header": {
+    "button-contact": "Contact"
+  },
+
+  "footer": {
+    "link-privacy-policy": "Privacy Policy"
+  },
+
+  "page-home": {
+    "section-title": "Cosmetic Dentistry & Image Improvement",
+
+    "menu": {
+      "button-about": "About Me",
+      "button-concept": "Concept",
+      "button-treatments": "Treatments",
+      "button-prediagnontic": "Online Prediagnostic",
+      "button-partnerships": "Partnerships",
+      "button-blog": "Blog",
+      "button-store": "Store",
+      "button-label-soon": "Soon"
+    },
+
+    "section-slider": {
+      "slide-1-title": "AN INNOVATIVE CONCEPT",
+      "slide-1-text-1": "<p>This concept is the result of years of experience, preparation and, above all, careful observation of the needs of my patients.</p><p>We live in a time of specialization of the profession, but this is something that patients find difficult to accept. My patients come to my consultation because they want to be cared for and followed by me. This is why I am constantly updating myself to offer the most complete service possible...</p>",
+      "slide-1-button": "More Info",
+
+      "slide-2-title": "online pre-diagnosis",
+      "slide-2-text-1": "<p>You may be wondering what the online pre-diagnosis is all about.</p><p>Well, there are 9 very simple questions that will help you to solve most of your doubts.</p><p>It is totally free and does not commit you to any treatment.</p><p>In case you decide to schedule a consultation, this pre-diagnosis will help me as an orientation.</p><p>I hope you will love it as much as I do! You will make me very happy ;)</p>",
+      "slide-2-button": "online pre-diagnosis"
+    },
+
+    "section-reviews": {
+      "section-title-label": "",
+      "section-title": "Customer valuation",
+      "section-button": "Add your review"
+    }
+  },
+
+  "page-about": {
+    "section-title": "About Me",
+
+    "section-1-intro": "Let us never forget that we’re not machines, simply professionals and humans. In the end, we will be remembered for what we make others feel, not for who we are or what we study. Come with me!",
+    "section-1-text-1": "I <strong>graduated in Dental Medicine</strong> from the Alfonso X University, in Villanueva de la Cañada, Madrid.",
+    "section-1-text-2": "Upon leaving the university, I took a <strong>master’s degree in Prosthodontics and Occlusion</strong> which means that one of my main specialties is dental aesthetics: complete rehabilitation using crowns on implants, crowns on teeth, dental veneers, and correction and analysis of occlusion, since the stability of the patient's bite is the main aspect to be considered.",
+    "section-1-text-3": "In order to always be updated in this field, I took different courses in dental aesthetics, which included several types of teeth whitening and different materials used in the field.",
+    "section-1-text-4": "Shortly after, in order to improve the endodontic treatment, I took a postgraduate degree in <strong>rotary endodontics</strong> In other words, the devitalization or removal of the tooth nerve more quickly, using instruments that rotate and clean the nerve more effectively.",
+    "section-1-text-5": "Later on, I took a two-year master's degree in Implantology and Oral Surgery from Fernando Pessoa University in Oporto and New York University, as well as other different courses in this field, to keep me updated.",
+    
+    "section-2-title": "CAREER START",
+    "section-2-text-1": "I started working in 2008 in Madrid, Spain, and I have been working in Lisbon, Portugal, since 2018.",
+    "section-2-text-2": "I’m a member of the Colegio Oficial de Odontólogos y Estomatólogos of Madrid and the Ordem dos Médicos Dentistas of Portugal.",
+    "section-2-text-3": "I was part of the <strong>Organizing Committee of the 27th Annual Meeting</strong> of the New York University, together with Fernando Pessoa University and E.S.O.R.I.B, in Valencia, Spain. I participated in several communications at some of these meetings.",
+
+    "section-3-title": "CONSTANTLY EVOLVING",
+    "section-3-text-1": "Here’s my resume, I don’t intend to bore you, but rather highlight that each of these steps not only has made me a better professional, but also a better person. I have fallen, many times, I have risen, many others. But I also enjoy and have been enjoying a lot of this path that is life, our life.",
+    "section-3-text-2": "I consider myself an active and updated person in all the branches of my specializations, continually training in different areas that make my knowledge grow, and consequently, being able to always offer the best to my patients.",
+    "section-3-text-3": "I graduated in <strong>Dermocosmetics</strong> in Lisbon, a field I am passionate about. I’m fortunate to work with many facial care brands, so I know perfectly well what suits best each skin type.",
+    "section-3-text-4": "I graduated in <strong>Image Consulting</strong> within a collaboration between the Complutense University of Madrid and the Mindway centre, which is why today I’m able to combine concepts of dental aesthetics that aim to improve the patient’s overall image, resulting in an innovative concept.",
+    "section-3-text-5": "I’ve also graduated in <strong>Digital Marketing and Digital Branded Content</strong> also within a collaboration between the Complutense University of Madrid and the Mindway centre.",
+    "section-3-text-6": "Last but not least, I took a university expert degree (Spanish academic title) in <strong>Aesthetic Medicine</strong>, having also attending, at the Instituto Universitário Egas Moniz, in Lisbon, a specialization in <strong>botulinum toxin</strong>, both aesthetic and therapeutic, with a great scientific basis.",
+    "section-3-text-7": "I’m a very proud member of the <strong>International Commission of the Orofacial Harmonization and Therapeutics Association</strong> , supported by the Portuguese Ordem dos Médicos Dentistas.",
+    "section-3-text-8": "All this knowledge and these years of experience are the foundation of this concept of cosmetic dentistry and image improvement, which brings together several professionals, both medical and non-medical, around the treatment of the patient as a <strong>WHOLE</strong>."
+  },
+
+  "page-concept": {
+    "section-title": "An innovative concept",
+    "section-intro": "The way I look at dentistry, what you acquire is an experience. No bad experiences, as has been understood so far. As many of my patients say, «going to the dentist has become a pleasure, a moment of disconnection and laughter». Can we talk about «Dental SPA»? Yes, we can!!",
+    
+    "section-1-text-1": "From this concept, you acquire a beautiful smile, yes, but also many reasons to smile. You acquire a treatment, yes, but also an improvement in your quality of life. You acquire valuable information, yes, but also the necessary knowledge to choose and to project the most appropriate image to what you want to achieve or become.",
+    "section-1-text-2": "There is a lot of talk about <strong>«personalized treatment»</strong>, but what is it really about? In my opinion, it has become a way to <strong>«sell you something»</strong>. Personalized treatment, from my point of view, is not just about creating a style for thousands of different people, but <strong>being there when my patient needs me</strong>. I don’t leave the consultation and say goodbye to my patient until the next consultation. I assure you that I will be there when you need me between consultations, you’ll have my contact and I won’t let you feel «alone» at any time.",
+    "section-1-text-3": "<strong>I like to treat the patient as a whole</strong>. The patient isn’t just teeth, a mouth, a face, a body.",
+    "section-1-text-4": "The patient is the set of many physical and psychological features; they feel, reflect and are in continuous search, conscious or unconscious, to improve.",
+    "section-1-text-5": "<strong>Cosmetic Dentistry</strong> is a concept little or nothing developed as such. It’s about visualizing the shape of the entire face to design the perfect smile for the different facial features.",
+    "section-1-text-6": "With the arrival of <strong>Orofacial Harmonization and Therapeutics</strong>, we can even highlight or improve certain features which the patient isn’t totally comfortable with: lips, cheekbones, nose, jaw contour, chin, wrinkles around the eyes and the mouth, wrinkles on the forehead and even thin the face or define it. When talking about <strong>Orofacial Therapeutics</strong>, we’re talking about the treatment of pain, both muscular and nervous, with different techniques and different professionals.",
+    
+    "section-2-question-1-question": "Is the colour study only suitable to choose the most appropriate shade for the patient's teeth?",
+    "section-2-question-1-pre-answer": "The answer is...",
+    "section-2-question-1-answer": "A massive <strong>NO</strong>",
+    "section-2-question-2-question": "Why do some people have very brane, unnatural looking veneers, while others have very natural e beautiful looking veneers?",
+    "section-2-question-2-pre-answer": "Because, as a general rule...",
+    "section-2-question-2-answer": "Only the obvious is analysed to create a smile, which is why many patients have almost the same shape and the same shade of teeth, when in reality it should never be so. Why? Because each and every one of us is a different and unique being.",
+    "section-2-question-3-question": "Can color be studied even if you don't want to change your smile completely?",
+    "section-2-question-3-pre-answer": "The answer is...",
+    "section-2-question-3-answer": "A massive <strong>YES</strong>",
+    "section-2-question-4-question": "What makes this concept even more innovative?",
+    "section-2-question-4-pre-answer": "In addition to analysing the facial features...",
+    "section-2-question-4-answer": "A <strong>colour study</strong> is also carried out, analysing the patient's skin, in order to decide the exact shade of their smile and thus achieve a result as natural and appropriate as possible.",
+
+    "section-3-text-1": "With this study, the patient will receive very interesting information on how to improve their overall image, because through it they will obtain the necessary knowledge to choose the colours that best suit them when choosing their garment and even the colour of their lipstick!",
+    "section-3-text-2": "That's right, through the study of the smile, we can improve the overall image of a patient!",
+    "section-3-text-3": "When the patient's features are analysed, and it’s decided to give more volume to certain areas of their face, we must bear in mind that their face shape may change, affecting the accessories that should be used when wanting to favour the image (glasses, hats, earrings, etc.), as well as the way of applying makeup, which should also be different, because if we add volume to the cheekbones, it may no longer be necessary to highlight them with makeup."
+  },
+
+  "page-treatments": {
+    "page-title": "Treatments",
+
+    "treatment-cat-cosmetic-dentistry": {
+      "treatment-cat-title": "COSMETIC DENTISTRY",
+
+      "subsection-oral": {
+        "treatment-cat-title": "ORAL IMPROVEMENT",
+        "treatment-1-title": "Ceramic veneers",
+        "treatment-1-text": "<p>They’re thin porcelain shells that cover the front of the teeth. With them, we can modify the shape, shade and/or volume of the teeth.</p><p>It’s performed in two consultations. In the first one, the teeth are very conservatively prepared, with little or no wear, and the measures are taken to be sent to the laboratory for the preparation of the veneers. In the second consultation, the veneers are placed and adjusted.</p><p>The procedure can be performed on one or more teeth, according to expectations and needs. The design is personalized by studying the patient’s facial features and skin tone. No patient’s veneer will be the same as the veneer of another patient, thus avoiding a very fake and unnatural look.</p>",
+        "treatment-2-title": "Ceramic crowns over the teeth",
+        "treatment-2-text": "<p>Dental crowns differ from veneers in that they fully cover the tooth. They’re used when tooth loss and/or tooth surface wear is very big.</p><p>It’s performed in two consultations. In the first one, the teeth are prepared and measures are taken to be sent to the laboratory for the preparation of the crowns. In the second consultation, the crowns are placed and adjusted.</p><p>The procedure can be performed on one or more teeth, according to expectations and needs. The design is personalized by studying the patient’s facial features and skin tone. No patient’s crown will be the same as the crown of another patient, thus avoiding a very fake and unnatural look.</p>",
+        "treatment-3-title": "Ceramic crowns on implants",
+        "treatment-3-text": "<p>This type of crown is used when the tooth no longer exists. It’s placed on top of the implant, which is like a screw that it’s implanted in the bone, «simulating» the root of the missing tooth.</p><p>The procedure is performed in two consultations. In the first consultation, the measurements are taken, and, in the second, the crown is placed.</p><p>The design is personalized by studying the patient’s facial features and skin tone.</p>",
+        "treatment-4-title": "Teeth whitening",
+        "treatment-4-text": "<p>Teeth whitening aims to eliminate stains and the yellowish tone that settles on the teeth over time. It can be performed in a medical clinic, using laser, and in an outpatient setting. Sometimes, these two options are combined.</p><p>The time of exposure to the product and following the doctor’s instructions act directly on the final result. By following the instructions, a whiter and brighter smile is always achieved.</p>",
+        "treatment-5-title": "INVISALIGN",
+        "treatment-5-text": "<p>It’s the orthodontic treatment par excellence due to its aesthetics, comfort and guarantee.</p><p>It consists of totally transparent, almost invisible and imperceptible aligners, which are replaced weekly. Each aligner produces a small movement in the teeth, until reaching the correct position. It’s a predictable treatment, because you can see the final result through a digital simulation video before starting the treatment.</p><p>It hardly exceeds two years of treatment. It has a five-year warranty, and if you’re required to change doctors or clinics, you’ll be assigned another specialist doctor at no additional cost to proceed with the treatment.</p><p>It’s removable, allowing good hygiene and greater comfort during its use.</p>",
+        "treatment-6-title": "Gingival smile correction",
+        "treatment-6-text": "<p>The gingival smile is characterized by excessive exposure of the gums when smiling. It gives the patient a very long and not very harmonious face.</p><p>It can be treated by relaxing the levator labii superioris muscle and the nasal ala with botulinum toxin.</p><p>It’s considered a gingival smile when more than 4 mm of gingival tissue is shown when smiling.</p>"
+      },
+
+      "subsection-facial": {
+        "treatment-cat-title": "FACIAL ENHANCEMENT",
+        "treatment-1-title": "Front wrinkles",
+        "treatment-1-text": "<p>This treatment used in orofacial harmonization aims to minimize, eliminate or prevent forehead wrinkles easily and without complications.</p><p>The treatment is performed using infiltrations of botulinum toxin in the frontal muscle, relaxing it, through small punctures with a very fine needle.</p><p class='caption-small'>Duration: 3 to 6 months.</p><p class='caption-small'>In people who practice a lot of sport, it usually lasts for a shorter time.</p><p class='caption-small'>Recommendation: 2 to 3 times a year.</p>",
+        "treatment-2-title": "Wrinkles around the eyes",
+        "treatment-2-text": "<p>This treatment used in orofacial harmonization aims to minimize, eliminate or prevent wrinkles around the eyes, also known as «crow's feet», easily and without complications.</p><p>The treatment is performed using superficial infiltrations of botulinum toxin in the orbicularis oculi muscle, relaxing it, through small punctures with a very fine needle.</p><p class='caption-small'>Duration: 3 to 6 months.</p><p class='caption-small'>In people who practice a lot of sport, it usually lasts for a shorter time.</p><p class='caption-small'>Recommendation: 2 to 3 times a year.</p>",
+        "treatment-3-title": "Glabellar wrinkles",
+        "treatment-3-text": "<p>This treatment used in orofacial harmonization aims to minimize, eliminate or prevent wrinkles found between the eyebrows easily and without complications.</p><p>The treatment is performed using infiltrations of botulinum toxin in the procerus and corrugator muscles, relaxing the muscles, through small punctures with a very fine needle.</p><p class='caption-small'>Duration: 3 to 6 months.</p><p class='caption-small'>In people who practice a lot of sport, it usually lasts for a shorter time.</p><p class='caption-small'>Recommendation: 2 to 3 times a year.</p>",
+        "treatment-4-title": "Jaw filler",
+        "treatment-4-text": "<p>El marcado del ángulo mandibular es una técnica de armonización orofacial que consiste en realzar la zona de la mandíbula a través de pequeñas infiltraciones de ácido hialurónico, con una aguja muy fina.</p><p>The results are very natural and long lasting.</p><p class='caption-small'>Duration: 12 to 18 months.</p>",
+        "treatment-5-title": "Cheekbones filler",
+        "treatment-5-text": "<p>Cheekbones augmentation is performed for two different reasons, but with the same purpose. Eliminate the protuberance of the facial bones and the loss of adipose tissue resulting from aging, but also to improve the appearance of the cheeks, by defining them, which results in a slimmer face.</p><p>It’s performed using infiltrations of hyaluronic acid.</p><p class='caption-small'>Duration: 12 months.</p>",
+        "treatment-6-title": "Lip filler",
+        "treatment-6-text": "<p>Using a minimally invasive technique, the lips can be filled with hyaluronic acid. It’s possible to increase its thickness, and/or highlight the profile, and/or lift the corners, and/or moisturize.</p><p>Hyaluronic acid is absorbed by the body, and the effects gradually diminish.  Immediately after its application, there may be a slight discomfort and a small bruise that disappears in a short time. With this treatment, it’s even possible to correct irregularities.</p><p class='caption-small'>Duration: up to 12 months.</p>",
+        "treatment-7-title": "Chin filler",
+        "treatment-7-text": "<p>The chin, along with the cheekbones, helps giving expression to the face. A retracted chin distorts the face and creates continuity with the neck by eliminating its depth.</p><p>The chin contour enhancement with hyaluronic acid is gentle and offers the patient a more defined facial contour.</p>",
+        "treatment-8-title": "Rhinomodeling",
+        "treatment-8-text": "<p>Nowadays it’s possible to correct the imperfections of the nose without having to  perform surgery. It’s a fast, non-invasive orofacial harmonization treatment, with immediate results.</p><p>This treatment is performed using hyaluronic acid, but it doesn’t replace rhinoplasty. Its results aren’t permanent, but they’re less aggressive.</p><p>There may be inflammation that decreases in a few days.<p class='caption-small'>Duration: between 12 and 18 months.</p></p>",
+        "treatment-9-title": "Mesobotox",
+        "treatment-9-text": "<p>It consists of superficial injections of botulinum toxin with a very fine needle in strategic areas of the face to improve the quality of the skin. The result is a smoother, more stimulated skin that looks younger.</p><p class='caption-small'>Recommendation: do it twice a year.</p>",
+        "treatment-10-title": "Bichectomy (cheek reduction)",
+        "treatment-10-text": "<p>This is a minimally invasive surgical procedure that removes Bichat balls or fatty tissue of the cheeks.</p><p>The result is a thinner face and prominent cheekbones.</p><p>It's a permanent treatment. A good prior medical evaluation is required, in which it’s decided whether the eventual treatment will have the expected results.</p>"
+      }
+    },
+
+    "treatment-cat-restorative-dentistry": {
+      "treatment-cat-title": "RESTORATIVE AND THERAPEUTIC DENTISTRY",
+      "treatment-1-title": "Myofascial pain and neuralgias",
+      "treatment-1-text": "<p>We rarely give muscles the importance they deserve. On numerous occasions, they’re the cause of diffuse headaches, as well as facial, neck, cervical and forearm pain. An accurate diagnosis can greatly improve the patient's quality of life.</p><p>The combined treatment with botulinum toxin and an occlusal splint, along with the follow-up of professionals from other fields, such as physiotherapy, ATM (temporomandibular joint specialist), etc., can be effective alternatives to solve these problems.</p><p>I work with the best experts in all areas of medicine. If you need help, please contact me.</p>",
+      "treatment-2-title": "Periodontal cleaning treatment",
+      "treatment-2-text": "<p>We can't start a house from the roof, I think you'll agree. The same goes for our oral cavity.</p><p>The foundations of our mouth are the bone and gum. If we don’t undertake a superficial and/or deep cleansing every 4, 6 or 12 months, the accumulated dirt, such as tartar, will cause gum and bone loss. If we think about what implies the loss of bone and gingival tissue, the answer is simple, we may end up losing our teeth in the near future.</p><p>It’s useless to carry out a wonderful aesthetic treatment if we do not take care of this very important and sometimes so «forgotten» aspect.</p>",
+      "treatment-3-title": "Endodontics or root canal treatment",
+      "treatment-3-text": "<p>There are terms that need to be explained in a simple way. In dentistry, to devitalize a tooth means to «take» out the life of a tooth.</p><p>What gives life to a tooth are the blood vessels, which enter it through its roots. What gives it sensitivity are the nerves, that share the path with the blood vessels. By removing the set of blood vessels and nerves, we're «taking» the life out of that tooth, we're devitalizing it in order to keep the tooth, but it will be dead. When something is dead, over time, it becomes more fragile and can break or become infected.</p><p>This treatment is performed when there’s chronic irritation of the tooth due to decay, fracture or infection, and is the way to keep the tooth longer in the mouth. I always try to avoid root canal treatments, however, when necessary, they’re the treatment of choice for me, long before extracting the tooth and placing an implant.</p><p>There's nothing better than keeping our teeth, there's nothing more biocompatible than that.</p>",
+      "treatment-4-title": "Dental implants",
+      "treatment-4-text": "<p>It’s very simple, everyone knows what it’s about. When it’s no longer possible to treat a tooth, we proceed with their extraction and subsequent placement of an implant.</p><p>The implant is a screw that «simulates» the root of the tooth. We must let it heal for at least three months. After that time period, we can put on the crown, which is the part showing in the mouth when we smile.</p>",
+      "treatment-5-title": "Dental cavity",
+      "treatment-5-text": "<p>Here, I am very upfront. A cavity is a tooth that is literally rotting away. It's a tooth that's being destroyed by bacteria. It's what happens to any food that expires at home. It rots, doesn’t it?</p><p>Well, it's exactly the same thing happening in your teeth. And the worst part of this whole process is that we’re continually swallowing bacteria, which can produce any kind of disease in our body. Yes, this’s also literal.</p><p>Food has a direct influence. A nutritionist can complete your care. Ask me if you need to get in touch with one.</p>"
+    },
+
+    "treatment-cat-oral-diagnosis": {
+      "treatment-cat-title": "ORAL DIAGNOSTIC TECHNIQUES",
+      "treatment-1-title": "Panoramic X-ray/TAC/CBCT/3D",
+      "treatment-1-text": "<p>For a correct diagnosis, a panoramic X-ray is ESSENTIAL. Without it, more than 70% of the information is lost. What kind of diagnosis can we offer our patients with only 30% information? Well, certainly misdiagnosis or, at the very least, scarce.</p><p>There’s no child without a father, just as there’s no good diagnosis without an X-ray. On the other hand, no surgery in the oral cavity should be performed without the medical doctor first requesting a 3D X-ray.</p><p>When we acquire experience, we think we know and control everything, but life never stops surprising us. If the doctor can’t see the bone in a three-dimensional way, he can’t be sure that his treatment is appropriate, both in implants as in bone grafts and other important surgeries.</p>"
+    },
+
+    "treatment-cat-image-enhancement": {
+      "treatment-cat-title": "COSMETIC ENHANCEMENT",
+      "treatment-1-title": "Visagism",
+      "treatment-1-text": "<p>There are several types of face. Each of us fits into one of it. Within my image consulting studies, this is one of the key parts when it comes to proportions.</p><p>We're not all the same, therefore, we can't have the same teeth, or make up the same way, or wear the same accessories and/or hairstyles. Well, we can, but if what we desire is to highlight our most beautiful features and hide our «perfect imperfections», we need to know our face type.</p><p>This part is everything in my work of orofacial harmonization, starting with the configuration of the teeth, going through the application of botulinum toxin and hyaluronic acid, and ending in the makeup of my patients (men and women).</p>",
+      "treatment-2-title": "Anthropometric study",
+      "treatment-2-text": "<p>We focus on this aspect when the patient wants to go a little further. It’s similar to visagism, but here we study the body type, its measurements, posture and body proportion, body corrections, etc.</p><p>This study aims to know the patient’s body type, in order to find the most suitable accessories, according to the proportions and body typology, both male and female.</p><p>The same thing happens here, not everyone has the same body type, so not everyone is favoured by the same type of clothing. We can wear all kinds of clothes, but not if we desire to stand out.</p>",
+      "treatment-3-title": "Colour study",
+      "treatment-3-text": "<p>The colours we choose in clothing, make-up and accessories have a big impact on our personal image. We're all different and we have a distinct skin tone. We must find the colours that complement us, in order to show our natural beauty.</p><p>When we know the colours that favour us, we can learn to use them correctly, thus being able to hide defects or enhance the body parts that we like the most. Our image is drastically affected by the colours we use, making us look more or less young and even creating dark circles that we may not even have.</p><p>The different groups, according to the colours that most favour us, are divided into the four seasons: AUTUMN, SPRING, WINTER and SUMMER.</p><p>Would you like to know which group you belong to? Please contact me with any questions regarding any of the sections described above.</p>"
+    }
+  },
+
+  "page-prediagnostic": {
+    "page-title": "ONLINE PREDIAGNOSTIC",
+    "page-title-with-responses": "Online prediagnosis results",
+    
+    "form-name": "Name",
+    "form-email": "E-mail",
+    "form-button-send": "Get Answers",
+    "form-button-back": "Go Back",
+    "form-label-error": "",
+    "form-label-success": "",
+    
+    "question-title-label": "Check none, one or several options.",
+    "question-title-label-boolean": "Check one of the options",
+
+    "question-1": {
+      "question": "What do you like about your smile?",
+      "options": {
+        "a": "The shape of my teeth.",
+        "b": "The colour of my teeth",
+        "c": "All my teeth are in their correct position (aligned).",
+        "d": "I don't like my smile.",
+        "e": "Only some teeth bother me."
+      },
+      "responses": {
+        "a": "I’m glad that you like the shape of your teeth.",
+        "b": "I like that you like the colour of your teeth.",
+        "c": "What a joy to know that you have a good occlusion!!",
+        "d": "If you don't like your smile, let's try to understand why.",
+        "e": "It’s good to know that only a few teeth bother you! Let's analyse the reasons."
+      }
+    },
+
+    "question-2": {
+      "question": "What don't you like about your smile?",
+      "options": {
+        "a": "The shape of my teeth.",
+        "b": "The colour of my teeth",
+        "c": "Their position isn’t correct (dental crowding).",
+        "d": "I don't like my smile.",
+        "e": "I’m missing one or more teeth.",
+        "f": "I'm not sure."
+      },
+      "responses": {
+        "a": "If you don’t like the shape of your teeth, there are several treatments that can be performed to improve it, from ceramic veneers to ceramic crowns. In the case of a slightly damaged tooth, it’s even with possible to resort to small aesthetic reconstructions with composites that modify minor deformities.",
+        "b": "If you don’t like the colour of your teeth, we can probably solve the problem with a good cleaning and whitening. In the case of very strong stains, ceramic veneers can be placed to cover the tooth with the appropriate shade.",
+        "c": "If you have dental crowding or the position of some teeth makes you uncomfortable, we can perform an orthodontic treatment, to give you a more beautiful smile and a better occlusion, which allows you to chew better, facilitates hygiene and prevents dental wear due to poor dental contact. The five-star treatment I work with is <strong>Invisalign</strong>.",
+        "d": "",
+        "e": "The lack of one or more teeth is dangerous for several reasons. The teeth will begin to move, it will occur wear and overload on the remaining teeth and bone loss, which may prevent the placement of implants without a bone grafting prior to the placement of the implants.",
+        "f": "If you’re not sure what you don’t like about your smile, it’s best to book a consultation with me directly to evaluate the overall situation of your mouth."
+      }
+    },
+
+    "question-3": {
+      "question": "Do you have any kind of pain?",
+      "options": {
+        "a": "No.",
+        "b": "Neck pain.",
+        "c": "Cervical pain.",
+        "d": "Jaw pain.",
+        "e": "Ear pain that radiates to the face.",
+        "f": "Usual headaches.",
+        "g": "Around the eyes.",
+        "h": "Post-traumatic pain that lasts longer than usual after undergoing a tooth extraction, a root canal treatment or a tooth restoration.",
+        "i": "Trigeminal neuralgia or another type of neuralgia.",
+        "j": "Back pain."
+      },
+      "responses": {
+        "a": "I'm very glad you don't feel any pain.",
+        "b": "It’s very likely that the pain is directly related to the mouth, due to dental clenching or squeaking, also called bruxism, which can cause pain in the teeth or jaws. Pain may not occur in the jaws. It´s possible that you have cervical pain, neck pain or even more or less frequent headaches originating in the mouth, without the direct occurrence of pain in it.",
+        "c": "It’s very likely that the pain is directly related to the mouth, due to dental clenching or squeaking, also called bruxism, which can cause pain in the teeth or jaws. Pain may not occur in the jaws. It´s possible that you have cervical pain, neck pain or even more or less frequent headaches originating in the mouth, without the direct occurrence of pain in it.",
+        "d": "It’s very likely that the pain is directly related to the mouth, due to dental clenching or squeaking, also called bruxism, which can cause pain in the teeth or jaws. Pain may not occur in the jaws. It´s possible that you have cervical pain, neck pain or even more or less frequent headaches originating in the mouth, without the direct occurrence of pain in it.",
+        "e": "Pain, such as frequent headaches, pain in the ears radiating to the face, and even pain around the eyes, can mean the existence of a nerve condition, such as neuralgia, migraine, etc.",
+        "f": "Pain, such as frequent headaches, pain in the ears radiating to the face, and even pain around the eyes, can mean the existence of a nerve condition, such as neuralgia, migraine, etPost-traumatic pain can be treated in a very quick and simple way. The problem in this case is when some nerve has been permanently affected, resulting in discomfort, such as sensitivity and pain at the slightest touch in the area.c.",
+        "g": "Pain, such as frequent headaches, pain in the ears radiating to the face, and even pain around the eyes, can mean the existence of a nerve condition, such as neuralgia, migraine, etPost-traumatic pain can be treated in a very quick and simple way. The problem in this case is when some nerve has been permanently affected, resulting in discomfort, such as sensitivity and pain at the slightest touch in the area.c.",
+        "h": "Post-traumatic pain can be treated in a very quick and simple way. The problem in this case is when some nerve has been permanently affected, resulting in discomfort, such as sensitivity and pain at the slightest touch in the area.",
+        "i": "Trigeminal neuralgia is the worst pain one can have, I'm so sorry to read this. Today there are several techniques, from basic to more complex and from non-medicated to medicated.",
+        "j": "Back pain can originate in the oral cavity. As incredible as it sounds, it’s true. Adding to this, there’s the body postures during sleep and when sitting, working, etc. The complementary help from a physiotherapy professional is paramount, which is why I collaborate with one of the best physiotherapy clinics in the Lisbon region."
+      }
+    },
+
+    "question-4": {
+      "question": "Do you have any of these symptoms?",
+      "options": {
+        "a": "Tooth sensitivity.",
+        "b": "Inflamed gums.",
+        "c": "Signs of infection.",
+        "d": "Facial paralysis."
+      },
+      "responses": {
+        "a": "If you have tooth sensitivity, you should book a consultation to evaluate the causes of it. Possible causes are cavities, gingival recessions, dental wear, etc. If, on the other hand, you know what it’s due or have always suffered from tooth sensitivity, I recommend my toothpaste of choice. If you would like to book an appointment, you can do so <a href='#contacto'>here</a>.",
+        "b": "If you have inflammation of the gums, it can be due to several causes, such as irritation, excessive tartar, bad oral hygiene, etc. If it’s a common situation and you usually treat the cause of inflammation. <a href='#contacto'>You can consult here</a>.",
+        "c": "If you think it’s an infection, you shouldn’t self-medicate with antibiotics under any circumstances, for several reasons. It may not be an infection, and the only result you’ll get is to lower your body’s defences and, in that case, you’ll suffer from infections more easily. On the other hand, it’s necessary to evaluate the possible infection and see where it’s physically located, which is of vital importance for our diagnosis. If you would like to book an appointment, you can do so <a href='#contacto'>here</a>.",
+        "d": "If you suffer from facial paralysis, leaving you uncomfortable and affecting your self-esteem, you should know that there are treatments such as botulinum toxin and hyaluronic acid to soften and significantly improve this condition. If you would like to book an appointment, you can do so <a href='#contacto'>here</a>."
+      }
+    },
+
+    "question-5": {
+      "question": "Do you do a good tooth brushing?",
+      "options": {
+        "a": "Yes, I feel good about it or at least I think so.",
+        "b": "No, I would like to do better, and/or I can't floss, and/or I don't know which is the best type of toothbrush, etc."
+      },
+      "responses": {
+        "a": "Do you feel good about your oral hygiene? You don't guess how glad I am to know this!",
+        "b": "I understand that you don’t know how to floss or brush your teeth well, no one is born with absolute knowledge about everything. In my blog, I have several interesting tricks that I can teach you. My blog is almost ready, in the meantime order the article <a href='#contacto'>here</a>."
+      }
+    },
+
+    "question-6": {
+      "question": "Point out one or more aspects that concern you besides your smile and oral health.",
+      "options": {
+        "a": "I'm only concerned about my smile.",
+        "b": "My lips are thin.",
+        "c": "I’m starting to get fine lines or already got some marked wrinkles.",
+        "d": "I would like to improve my nose.",
+        "e": "My cheekbones aren’t very defined.",
+        "f": "I have few eyelashes or they’re very short or thin.",
+        "g": "I would like to slim down my face.",
+        "h": "I’m not able to control my skin, I have imperfections and/or enlarged pores, and/or acne-prone skin, and/or spots, and/or hyperpigmentation, and/or rosacea, and/or dermatitis, and/or moles that have been increasing in size over time.",
+        "i": "I haven’t been able to find a plastic surgeon who inspires me confidence."
+      },
+      "responses": {
+        "a": "If you’re only concerned about your smile, maybe you’ll find a surprise next that might interest you... or not!",
+        "b": "Hyaluronic acid treatment can fill your thin lips in a harmonious and natural way.",
+        "c": "If you’re starting to get wrinkles, already got them or simply want to prevent them, the treatment with botulinum toxin is ideal.",
+        "d": "Did you know that there’s a way to improve your nose without surgery? Well, there is, it’s a procedure with hyaluronic acid. First, we must assess the viability of the treatment, since not all «defects» in the nose can be corrected without surgery, or at least, not always completely.",
+        "e": "The cheekbones frame the face in a spectacular way, both in women and men. Hyaluronic acid is also a very suitable option for this cheekbone volumizing treatment.",
+        "f": "There are treatments for eyelashes that help them to thicken, grow and lengthen. If, on the other hand, you desire wonderful eyelashes as quickly as possible, with a natural look, I have the right place for you. Why? Because that&#39;s where I do mine. Consult <a href='#contacto'>here</a> where you can get information about the establishment.",
+        "g": "If your face is too wide and you don’t like it, you might need a bichectomy. Before undergoing this type of treatment, it should be evaluated to see if it’s the most suitable for you and thus avoid future sagging problems.",
+        "h": "If you can't control your skin, have a mole that is slowly growing, dermatitis, imperfections or any other skin related problem, I recommend the best dermatologist, both nationally and internationally, doctor Luís Uva, from the Personalderma Clinic in Lisbon. You can find more information about his experience, resume, contact on his <a href='https://www.luisuva.com/'>website</a>",
+        "i": "When it comes to plastic surgery, <a href='https://personalderma.pt/'>Personalderma Clinic</a> has highly qualified professionals in this and other fields of expertise."
+      }
+    },
+    
+    "question-7": {
+      "question": "Let's go a little further... Is there any other aspect you would like to improve or strengthen?",
+      "options": {
+        "a": "I don't know how to make the most of my makeup.",
+        "b": "I don't have a clear idea of which colours look best on me.",
+        "c": "I don't have a clear idea of which clothes suit me best.",
+        "d": "Lately, I feel discouraged and have low self-esteem.",
+        "e": "I don’t find a personal trainer who motivates me to be consistent.",
+        "f": "I would like to improve my eyebrows.",
+        "g": "I would like to know a balanced, personalized and an easy to maintain diet plan and/or deal with some other nutrition related aspect."
+      },
+      "responses": {
+        "a": "If you don’t know how to make the most of your face shape, your body shape or even which colours favour you the most, the best option is to undertake the <a href='/aperfeicoamento-imagem#estudo-antropometrico'>anthropometry test</a>, in order to acquire knowledge of the clothes that best suit you; on the other hand, the <a href='/aperfeicoamento-imagem#visagismo'>visagism test</a>, so that you know your face type, and thus make the most out of your makeup; and finally the <a href='/aperfeicoamento-imagem#estudo-color'>colour test</a>, which will provide you with information on the colours and shades that best suit you, not only in clothing, but also in makeup and even in your smile.",
+        "b": "If you don’t know how to make the most of your face shape, your body shape or even which colours favour you the most, the best option is to undertake the <a href='/aperfeicoamento-imagem#estudo-antropometrico'>anthropometry test</a>, in order to acquire knowledge of the clothes that best suit you; on the other hand, the <a href='/aperfeicoamento-imagem#visagismo'>visagism test</a>, so that you know your face type, and thus make the most out of your makeup; and finally the <a href='/aperfeicoamento-imagem#estudo-color'>colour test</a>, which will provide you with information on the colours and shades that best suit you, not only in clothing, but also in makeup and even in your smile.",
+        "c": "If you don’t know how to make the most of your face shape, your body shape or even which colours favour you the most, the best option is to undertake the <a href='/aperfeicoamento-imagem#estudo-antropometrico'>anthropometry test</a>, in order to acquire knowledge of the clothes that best suit you; on the other hand, the <a href='/aperfeicoamento-imagem#visagismo'>visagism test</a>, so that you know your face type, and thus make the most out of your makeup; and finally the <a href='/aperfeicoamento-imagem#estudo-color'>colour test</a>, which will provide you with information on the colours and shades that best suit you, not only in clothing, but also in makeup and even in your smile.",
+        "d": "All of us, at some point or stage of our life, might need psychological help, which is perfectly normal and the order of the day. It may also be that your self-esteem issues simply result from not knowing how to improve your image. If so, and in both situations, you’re in the right place. If you need psychological help, I recommend a psychologist with whom I collaborate to <a href='#contacto'>provide this service</a>. If your low self-esteem is due to image, please <a href='#contacto'>let me take care of you</a>, I will do it with great pleasure and affection!",
+        "e": "A personal trainer? Of course, I work with the best. <a href='#contacto'>Consult here</a>.",
+        "f": "The eyebrows, how important are they to favour our look! I work with the best professional, she lives in the centre of Madrid and she’s the one who take cares of my eyebrows. In case you need, I also work with a trusted professional in Lisbon. <a href='#contacto'>Consult here</a>.",
+        "g": "If you need a nutritionist, I work with the best, of my absolute trust, a very kind and friendly professional. <a href='#contacto'>Consult here</a>."
+      }
+    },
+
+    "question-8": {
+      "question": "Did you undertake any type of facial, dental or body aesthetic treatment, and you´re looking for another professional who can solve your problem?",
+      "options": {
+        "a": "No",
+        "b": "Yes"
+      },
+      "responses": {
+        "a": "",
+        "b": "In order to appropriately respond to your aesthetic, body, dental or any other type of problem and thus seek the best treatment alternative, I must analyse this question in greater depth. Please fill out the contact form below to book an appointment with me, online or in person."
+      }
+    },
+
+    "question-9": {
+      "question": "Would you like to know the best products for your skin type?",
+      "options": {
+        "a": "No",
+        "b": "Dry skin",
+        "c": "Oily skin",
+        "d": "Combination skin",
+        "e": "I don't know, but I would like to know"
+      },
+      "responses": {
+        "a": "",
+        "b": "You can find the right products for your skin type in my store, as well as more information about it. The store is almost ready in the meantime ask for your information <a href='#contacto'>here</a>.",
+        "c": "You can find the right products for your skin type in my store, as well as more information about it. The store is almost ready in the meantime ask for your information <a href='#contacto'>here</a>.",
+        "d": "You can find the right products for your skin type in my store, as well as more information about it. The store is almost ready in the meantime ask for your information <a href='#contacto'>here</a>.",
+        "e": "Fill out my online form below and explain as precisely as possible how you feel or how your skin usually looks like. Does your skin shine a lot and you don't like it, does it shine but only in some areas, is it very dry, has enlarged pores, blackheads, or you simply don't know, but it feels great? With this information, I can recommend you the products that better suit your skin type or even inform you about the best dermatologist in Lisbon, in order to be able to advise you better in case you present more serious problems."
+      }
+    }
+  },
+
+  "section-contact": {
+    "section-title": "Contact",
+    "section-subtitle": "Do you need clarifications, discuss alliances or book an appointment? Fill out the form below.",
+    "form-name": "Name",
+    "form-email": "E-mail",
+    "form-subject": "Subject",
+    "form-subject-1": "Online Consultation",
+    "form-subject-2": "Make an appointment",
+    "form-subject-3": "Urgency",
+    "form-subject-4": "Other",
+    "form-message": "Your message",
+    "form-button": "Send Message",
+    "form-success-message": "Message Sent!",
+    
+    "giftcard": {
+      "close-button": "Close",
+      "title": "Request gift card",
+      "form-name": "Full Name",
+      "form-email": "E-mail",
+      "form-destiny": "To",
+      "form-gift": "Choose the gift",
+      "form-gift-1": "Teeth whitening + Cleaning - €200",
+      "form-gift-2": "Evaluation Consultation + Cleaning - €90",
+      "form-gift-3": "Botox treatment - €350",
+      "form-gift-4": "Hualuronic acid filler - €350",
+      "form-gift-5": "Visagism consultation + Colour study + Anthropometric study - €350",
+      "form-gift-6": "Ceramic veneers - €600",
+      "form-gift-7": "Gingival smile with botox - €200",
+      "form-gift-8": "Gingivoplasty - €80",
+      "form-gift-9": "Other options",
+      "form-card-text": "Text for Gift Card",
+      "form-message": "Do you intend to indicate anything else?",
+      "form-button": "Request gift card",
+      "form-success-message": "Done!"
+    }
+  },
+
+  "page-privacy-policy": {
+    "section-title": "Privacy Policy",
+    "page-content": "<p>Your privacy is important to us.</p><p>Dr. Elizabeth Péan's policy is to respect your privacy regarding any information we may collect from you through the Dr. Elizabeth Péan website.</p><p>We only collect personal information when we really need it to provide you with the best possible service.</p><p>We collect it with your knowledge and consent. We only keep the information we collect for as long as is necessary to provide you with the service you have requested. We protect the data we store by commercially acceptable means to prevent loss, theft, and unauthorized access, disclosure, copying, use or modification.</p><p>We do not share any personally identifiable information publicly or with third parties, except as required by law.</p><p>Our site may contain links to external sites that are not operated by us. Please be aware that we have no control over the content and practices of those sites, and cannot accept responsibility for their privacy policies.</p><p>You are free to decline our request for personal information, with the understanding that we may not be able to provide you with some of the services you desire. Your continued use of our site will be deemed acceptance of our privacy and personal information practices.</p><p>If you have any questions about how we treat user data and personal information, please do not hesitate to contact us.</p><p><strong>User Responsibilities</strong>: The user undertakes to make appropriate use of the content and information offered on the site with lawful behavior: <strong>A)</strong> Not to carry out activities that are unlawful or contrary to good faith and public order; <strong>B)</strong> Not to disseminate propaganda or content of a pornographic, racist, xenophobic, terrorist or anti-human rights nature; <strong>C)</strong> Not to cause damage to the physical (hardware) and inaccessible (software) systems of Dr. Elízabeth Péan, her suppliers, or any other person or entity that may be involved in the use of the site Elízabeth Péan, its suppliers or third parties, introduce or disseminate computer viruses or any other physical or logical systems capable of causing the aforementioned damage.</p><p>This policy is valid as of 19 September 2022.</p>"
+  }
+}

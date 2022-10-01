@@ -1,0 +1,402 @@
+{
+  "header": {
+    "button-contact": "Contacto"
+  },
+
+  "footer": {
+    "link-privacy-policy": "Política de Privacidad"
+  },
+
+  "page-home": {
+    "section-title": "ODONTOLOGÍA COSMÉTICA Y PERFECCIONAMIENTO DE LA IMAGEN",
+
+    "menu": {
+      "button-about": "Sobre Mi",
+      "button-concept": "Concepto",
+      "button-treatments": "Tratamientos",
+      "button-prediagnontic": "Prediagnóstico Online",
+      "button-partnerships": "Colaboraciones",
+      "button-blog": "Blog",
+      "button-store": "Tienda",
+      "button-label-soon": "Brevemente"
+    },
+
+    "section-slider": {
+      "slide-1-title": "UN CONCEPTO INOVADOR",
+      "slide-1-text-1": "<p>Este concepto es el resultado de años de experiencia, de preparación y sobre todo de observar con mucha atención las necesidades de mis pacientes.</p><p>Vivimos en un tiempo de especialización de la profesión, pero es algo que a los pacientes le cuesta aceptar. Mis pacientes vienen a la consulta porque desean ser atendidos y seguidos por mi. Esto es lo que hace que esté en continua actualización para ofrecer un servicio lo más completo posible...</p>",
+      "slide-1-button": "Más info",
+
+      "slide-2-title": "PREDIAGNÓSTICO ONLINE",
+      "slide-2-text-1": "<p>Te preguntarás de que se trata el prediagnóstico online.</p><p>Pues bien, son 9 preguntas muy simples que te ayudarán a resolver la mayor parte de tus dudas.</p><p>Es totalmente gratuito y no te compromete a la realización de tratamiento alguno.</p><p>En el caso de que decidas agendar una consulta, este prediagnóstico me servirá como orientación.</p><p>¡Espero que te encante tanto como a mi! Con ello me harás muy feliz ;)</p>",
+      "slide-2-button": "PREDIAGNÓSTICO ONLINE"
+    },
+
+    "section-reviews": {
+      "section-title-label": "Valoracíon de los clientes en",
+      "section-title": "Opiniones de Clientes",
+      "section-button": "Añadir tu opinión"
+    }
+  },
+
+  "page-about": {
+    "section-title": "Sobre Mi",
+
+    "section-1-intro": "Jamás olvidemos que no somos máquinas, simplemente profesionales y humanos. Al final, se nos recordará por lo que hacemos sentir a los demás, no por lo que somos o lo que hemos estudiado. Vamos allá...",
+    "section-1-text-1": "Me <strong>licencié en Odontología</strong>, en la Universidad Alfonso X, en Villanueva de la Cañada, Madrid.",
+    "section-1-text-2": "En cuanto salí de la Universidad, realicé un <strong>Máster en Prostodoncia y Oclusión</strong>, lo que significa que una de mis principales especialidades es la estética dental; rehabilitaciones completas mediante coronas sobre implantes, coronas sobre dientes, carillas dentales y la corrección y análisis de la oclusión, porque la estabilidad en la mordida del paciente es lo principal que debemos tener en cuenta.",
+    "section-1-text-3": "Realicé diferentes cursos de estética dental para estar siempre actualizada en esta área, en los que se incluyen tipos de blanqueamientos dentales y diferentes materiales utilizados en este campo.",
+    "section-1-text-4": "Un poco más tarde quise perfeccionar el tratamiento de endodoncia, así que realicé un postgrado de <strong>formación continuada en endodoncia rotatoria</strong>. En palabras más simples, la desvitalización o retirada del nervio de un diente, de una forma más rápida, y mediante instrumentos que rotan y limpian el nervio de manera más eficaz.",
+    "section-1-text-5": "Más tarde realicé un Máster de dos años en Implantología y Cirugía Oral, con la Universidad Fernando Pessoa de O Porto y la Universidad de Nueva York. Además de diferentes cursos para mantenerme actualizada también en esta área.",
+    
+    "section-2-title": "INICIO DE CARRERA",
+    "section-2-text-1": "Empecé a trabajar en 2008 en Madrid, España, y desde el 2018 desempeño mi profesión en Lisboa, Portugal.",
+    "section-2-text-2": "Formo parte del colegio de odontólogos de Madrid y de la Orden de los médicos dentistas de Portugal.",
+    "section-2-text-3": "Formé parte de la <strong>comisión organizadora de la XXVII reunión anual</strong> de la Universidad de Nueva York, junto con la Universidad Fernando Pessoa y E.S.O.R.I.B, en Valencia, España. Participé en varias comunicaciones en algunas de estas reuniones.",
+
+    "section-3-title": "EN CONSTANTE EVOLUCIÓN",
+    "section-3-text-1": "Aquí va un poquito de mi curriculum, espero no aburriros, y además, recordaros que cada uno de estos pasitos me ha convertido en mejor profesional, pero también en mejor persona. Me he caído, muchas veces. Me he levantado, otras tantas, pero también he disfrutado y disfruto mucho, de este camino que es la vida, nuestra vida.",
+    "section-3-text-2": "Me considero una persona activa y actualizada en cada una de las ramas de mis especializaciones. Formarme en diferentes áreas que hagan crecer mi conocimiento, y en consecuencia de ello, poder ofrecer siempre lo mejor a mis pacientes.",
+    "section-3-text-3": "Me diplomé en <strong>Dermocosmética</strong> en Lisboa, es un área que me apasiona. Tengo la suerte de colaborar con muchas marcas de cuidados faciales, con lo que sé perfectamente lo que le puede sentar mejor a cada tipo de piel.",
+    "section-3-text-4": "Me diplomé en <strong>Asesoría de Imagen</strong> con la colaboración de la Universidad Complutense de Madrid y Mindway. Es por ello que a día de hoy he conseguido aunar conceptos de estética dental que llegan a perfeccionar la imagen del paciente en general, de ahí viene este concepto innovador.",
+    "section-3-text-5": "Me diplomé además en <strong>Marketing digital y en Contenido digital de marca</strong>, también en colaboración con la Universidad Complutense de Madrid y Mindway.",
+    "section-3-text-6": "Por último y no por ello menos importante, me he formado en Experto Universitario en <strong>Medicina estética</strong>, cursando además, en Egas Moniz de Lisboa, una especialización en <strong>toxina botulínica</strong>, tanto estética como terapéutica, con una gran base científica.",
+    "section-3-text-7": "Estoy muy orgullosa de formar parte de la Comisión Internacional de la Asociación de Harmonización y Terapéutica Orofacial, apoyada por la Orden de los Médicos dentistas de Portugal.",
+    "section-3-text-8": "Todos estos conocimientos y estos años de experiencia son los responsables de este concepto de odontología cosmética y perfeccionamiento de la imagen, que auna varios profesionales, tanto médicos como no médicos, para conseguir tratar al paciente como lo que es, un <strong>TODO</strong>."
+  },
+
+  "page-concept": {
+    "section-title": "UN CONCEPTO INNOVADOR",
+    "section-intro": "Con mi forma de ver la odontología, lo que adquieres es una experiencia. Nada de malas experiencias, como se ha podido entender hasta ahora. Tal y como dicen muchos de mis pacientes “ir al dentista se ha convertido en placer, en momentos de desconexión y de risas”. ¿Podemos hablar de “Spa Dental”? ¡¡Sí, podemos!!",
+    
+    "section-1-text-1": "A partir de este concepto, adquieres una bonita sonrisa, sí, pero también muchos motivos para sonreír. Adquieres untratamiento, sí, pero además una mejora en la calidad de vida. Adquieres una información de valor, sí, pero tambiénel conocimiento necesario para elegir y para proyectar la imagen más adecuada a lo que deseas conseguir o llegar a ser.",
+    "section-1-text-2": "Se habla mucho de “tratamiento personalizado”, ¿Qué es esto realmente? Para mi, se ha converdio en una forma de “venderte algo”. Tratamiento personalizado, según mi punto de vista, es, además de no crear solamente un tipo de estilo para miles de personas diferentes, es estar ahí cuando mi paciente me necesita. Yo no salgo de la consulta y me despido de mi paciente hasta la siguiente consulta. Le garantizo que estaré ahí en el momento en el que me necesite entre consultas, disponiendo de mi contacto y no haciéndole sentirse “solo” en ningún momento.",
+    "section-1-text-3": "Me gusta tratar al paciente como un todo. Un paciente no es solamente dientes, una boca, una cara, un cuerpo.",
+    "section-1-text-4": "Un paciente es el conjunto de muchas características tanto físicas como psicológicas; que siente, reflexiona y que está en continua búsqueda, consciente o inconsciente de mejorar.",
+    "section-1-text-5": "La <strong>Odontología Cosmética</strong> es un concepto poco o nada desarrollado como tal. Se trata de visualizar la forma del rostro al completo para diseñar la sonrisa perfecta para los diferentes rasgos faciales.",
+    "section-1-text-6": "Con la llegada de la <strong>Harmonización y Terapéutica Orofacial</strong> podemos incluso mejorar o destacar ciertos rasgos con los que el paciente no se sienta totalmente cómodo; labios, pómulos, nariz, ángulo de la mandíbula, mentón, arrugas alrededor de los ojos, de la boca, arrugas en la frente e incluso afinar el rostro o endurecerlo. Cuando hablamos de <strong>Terapéutica Orofacial</strong>, hablamos del tratamiento del dolor, tanto muscular como nervioso, con diferentes técnicas y diferentes profesionales.",
+    
+    "section-2-question-1-question": "¿El estudio del color sirve solamente para escoger el color mas adecuado para los dientes del paciente?",
+    "section-2-question-1-pre-answer": "La respuesta es...",
+    "section-2-question-1-answer": "Un <strong>NO</strong> rotundo.",
+    "section-2-question-2-question": "¿Por qué existen personas que utilizan carillas muy brancas y se ve muy artificial, pero en o tras hasta se ve incluso natural y bonito?",
+    "section-2-question-2-pre-answer": "Porque por norma general solamente...",
+    "section-2-question-2-answer": "Se analiza lo evidente para crear una sonrisa. Es por esto que muchos pacientes tienen casi la misma forma y el mismo color de dientes, cuando en realidad, jamás debería ser así, ¿POR QUÉ? Porque todos y cada uno de nosotros somos seres diferentes y únicos.",
+    "section-2-question-3-question": "¿Puedes realizarte el estudio del color, aunque no quieras modificar tu sonrisa por completo?",
+    "section-2-question-3-pre-answer": "La respuesta es...",
+    "section-2-question-3-answer": "Un rotundo <strong>SI</strong>.",
+    "section-2-question-4-question": "¿Qué es los que hace todavía más innovador a este concepto?",
+    "section-2-question-4-pre-answer": "Que además de observar los rasgos faciales...",
+    "section-2-question-4-answer": "También se realiza un <a href='/aperfeicoamento-imagem'>estudio del color</a>, analizando la piel del paciente, para así decidir el color exacto de su sonrisa y así conseguir un resultado lo más natural y adecuado posible.",
+
+    "section-3-text-1": "Con este estudio, el paciente va a recibir informaciones muy interesantes sobre como mejorar su imagen en general, porque a través de este estudio, tendrá el conocimiento necesario para escoger los colores que mejor le sientan en el momento de elegir su ropa ¡e incluso el color del pintalabios!",
+    "section-3-text-2": "¡Así es, desde el estudio de la sonrisa, podemos mejorar y perfeccionar la imagen completa de un paciente!",
+    "section-3-text-3": "En el momento en el que se analizan los rasgos del paciente y se decide dar un mayor volumen a ciertas zonas de su rostro, debemos tener en cuenta que su tipología de rostro puede cambiar, esto va a afectar a los accesorios que debería utilizar si desea favorecer su imagen (gafas, sombreros, pendientes, etc.), además del modo de maquillarse, que también deberá ser diferente, ya que, si colocamos volumen en el pómulo, es posible que ya no sea necesario resaltarlo con el maquillaje."
+  },
+
+  "page-treatments": {
+    "page-title": "TRATAMIENTOS",
+
+    "treatment-cat-cosmetic-dentistry": {
+      "treatment-cat-title": "ODONTOLOGÍA COSMÉTICA",
+
+      "subsection-oral": {
+        "treatment-cat-title": "PERFECCIONAMIENTO ORAL",
+        "treatment-1-title": "CARILLAS DE CERÁMICA",
+        "treatment-1-text": "<p>Son láminas finas de porcelana que cubren la parte anterior de los dientes. Con ellas podemos modificar la forma, el color y/o el volumen. Son realizadas en dos consultas. En la primera consulta se preparan los dientes de manera muy conservadora y con poco o ningún desgaste, y se toman las medidas que serán enviadas al laboratorio para su confección. En la segunda consulta se colocan y ajustan las carillas. Se pueden realizar en uno o más dientes según expectativas y necesidad.</p><p>El diseño es realizado de manera individualizada, estudiando rasgos faciales y color de piel del paciente. Ninguna carilla de un paciente será igual a la carilla de otro, evitando así la sonrisa “tipo piano” y “blanco pared”.</p>",
+        "treatment-2-title": "COROAS CERÂMICAS SOBRE DENTE",
+        "treatment-2-text": "<p>Las coronas dentales difieren de las carillas en que estas recubren el diente por completo. Se utilizan cuando la pérdida dentaria es muy grande y/o el desgaste de la superficie de los dientes muy elevada.</p><p>Son realizadas en dos consultas. En la primera consulta se preparan los dientes y se toman medidas que serán enviadas al laboratorio para su confección. En la segunda consulta se colocan y ajustan las coronas. Se pueden realizar en uno o más dientes según expectativas y necesidad.</p><p>El diseño es realizado de manera individualizada, estudiando rasgos faciales y color de piel del paciente. Ninguna corona de un paciente será igual a la corona de otro, evitando así la sonrisa tipo piano y blanco pared.</p>",
+        "treatment-3-title": "COROAS CERÂMICAS SOBRE IMPLANTE",
+        "treatment-3-text": "<p>Este tipo de coronas se realizan cuando ya no existe el diente. Se colocan por encima del implante, que es como un tornillo que va al hueso simulando ser la raíz del diente perdido. Se realizan en dos consultas. La primera consulta es la toma de medidas y la segunda la colocación de la corona.</p><p>El diseño es realizado de manera individualizada, estudiando rasgos faciales y color de piel del paciente.</p>",
+        "treatment-4-title": "BLANQUEAMIENTO",
+        "treatment-4-text": "<p>El blanqueamiento dental sirve para eliminar manchas y el tono amarillento que se va fijando en los dientes con el paso del tiempo. Se puede realizar en clínica con láser y en ambulatorio. En ocasiones se realiza de manera mixta.</p><p>El tiempo de exposición al producto y el seguir las indicaciones del médico actúan de manera directa en el resultado final.</p><p>Siguiendo las indicaciones, en todos los casos se consigue una sonrisa más blanca y brillante.</p>",
+        "treatment-5-title": "INVISALIGN",
+        "treatment-5-text": "<p>Es el tratamiento de ortodontia por excelencia, debido a su estética. Comodidad y garantías. Son férulas totalmente trasnparentes, casi invisibles e imperceptibles, que se van cambiando de semana en semana. Cada férula realiza un pequeño movimiento en los dientes hasta llegar a la posición adecuada. Es un tratamiento es predecible porque consigues ver el resultado final mediante un video de simulación digital, antes de comenzar el tratamiento.</p><p>Muy difícilmente sobrepasa los dos años de duración.</p><p>Presenta 5 años de garantía, y en caso de verte forzado a cambiar de doctor o de clínica, se te asignará otro médico especializado sin gastos adicionales que continuará tu tratamiento.</p><p>Es removible, lo que permite una buena higiene y mayor comodidad de utilización.</p>",
+        "treatment-6-title": "SONRISA GINGIVAL",
+        "treatment-6-text": "<p>Se define por la exposición excesiva de las encías al sonreír. Confiere al paciente una cara muy larga y poco armónica.</p><p>Se puede tratar relajando los músculos elevadores del labio superior y del ala de la nariz con toxina botulínica. Se considera sonrisa gingival cuando se muestran más de 4 mm de encía al sonreír.</p>"
+      },
+
+      "subsection-facial": {
+        "treatment-cat-title": "PERFECCIONAMIENTO FACIAL",
+        "treatment-1-title": "ARRUGAS DE LA FRENTE",
+        "treatment-1-text": "<p>Este tratamiento utilizado en harmonización orofacial consiste en atenuar, eliminar o prevenir las arrugas de la frente de manera fácil y sin complicaciones.</p><p>El tratamiento se realiza a través de infiltraciones en el músculo frontal con toxina botulínica, la cual relaja la musculatura, mediante pequeños pinchazos, con una aguja muy fina.</p><p class='caption-small'>Duración: 3 a 6 meses.</p><p class='caption-small'>En personas que realizan mucho deporte suele durar menos.</p><p class='caption-small'>Recomendación: de 2 a 3 veces al año.</p>",
+        "treatment-2-title": "Arrugas alrededor de los ojos",
+        "treatment-2-text": "<p>Este tratamiento utilizado en armonización orofacial consiste en atenuar, eliminar o prevenir las arrugas alrededor de los ojos, llamadas también patas de gallo, de manera fácil y sin complicaciones.</p><p>El tratamiento se realiza a través de infiltraciones superficiales en el músculo orbicular con toxina botulínica, la cual relaja la musculatura, mediante pequeños pinchazos, con una aguja muy fina.</p><p class='caption-small'>Duración: 3 a 6 meses.</p><p class='caption-small'>En personas que realizan mucho deporte suele durar menos.</p><p class='caption-small'>Recomendación: de 2 a 3 veces al año.</p>",
+        "treatment-3-title": "ARRUGAS GLABELARES",
+        "treatment-3-text": "<p>Este tratamiento utilizado en harmonización orofacial consiste en atenuar, eliminar o prevenir las arrugas del entrecejo de manera fácil y sin complicaciones.</p><p>El tratamiento se realiza a través de la infiltraciones en el músculo prócer y corrugador con toxina botulínica, la cual relaja la musculatura, mediante pequeños pinchazos, con una aguja muy fina.</p><p class='caption-small'>Duración: 3 a 6 meses.</p><p class='caption-small'>En personas que realizan mucho deporte suele durar menos.</p><p class='caption-small'>Recomendación: de 2 a 3 veces al año.</p>",
+        "treatment-4-title": "RELLENO DEL ÁNGULO MANDIBULAR",
+        "treatment-4-text": "<p>El marcado del ángulo mandibular es una técnica de armonización orofacial que consiste en realzar la zona de la mandíbula a través de pequeñas infiltraciones de ácido hialurónico, con una aguja muy fina.</p><p>Los resultados son muy naturales y duraderos.</p><p class='caption-small'>Duración: 12-18 meses.</p>",
+        "treatment-5-title": "RELLENO DE PÓMULOS",
+        "treatment-5-text": "<p>El aumento de pómulos se utiliza para dos cosas diferentes oero con misma finalidad. Eliminar el pronunciamiento de los huesos de la cara y pérdida de tejido adiposo, cuando vamos envejeciendo, pero también para mejorar y realzar el aspecto de las mejillas marcando el pómulo, con un efecto de rostro más fino.</p><p>Se realiza con ácido hialurónico a través de infiltraciones.</p><p class='caption-small'>Duración: 12 meses.</p>",
+        "treatment-6-title": "RELLENOS DE LABIOS",
+        "treatment-6-text": "<p>Con una técnica mínimamente invasiva, se pueden rellenar los labios inyectando ácido hialurónico. Se puede aumentar su grosor y/o destacar el perfilado y/o elevar las comisuras y/o hidratar.</p><p>El ácido hialurónico es absorbible por el organismo, poco a poco los van disminuyendo los efectos. Puede aparecer algún pequeño hematoma que desaparece en poco tiempo y una ligera molestia inmediatamente después de su aplicación.</p><p>Con este tratamiento podemos incluso corregir irregularidades.</p><p class='caption-small'>Duración: hasta 12 meses.</p>",
+        "treatment-7-title": "RELLENO DE MENTÓN",
+        "treatment-7-text": "<p>El mentón junto con el pómulo ayuda a dar expresión al rostro. Un mentón retraído distorsiona la zona facial y crea una continuidad con el cuello al eliminar la profundidad de este.</p><p>El realce del contorno del mentón con ácido hialurónico es suave y ofrece al paciente un contorno facial mejor definido.</p>",
+        "treatment-8-title": "RINOMODELACIÓN",
+        "treatment-8-text": "<p>Hoy en día es posible corregir las imperfecciones de la nariz sin tener que realizarse una cirugía. Es un tratamiento de armonización orofacial y médico estético no invasivo, rápido y con resultados inmediatos.</p><p>Este tratamiento se realiza con ácido hialurónico pero no sustituye a la rinoplastia, sus resultados no son permanentes, pero es menos agresivo.</p><p>Puede existir inflamación que remite en pocos días.<p class='caption-small'>Duración: entre 12 y 18 meses.</p></p>",
+        "treatment-9-title": "MESOBOTOX",
+        "treatment-9-text": "<p>Se trata de infiltraciones de toxina botulínica de manera superficial con una aguja muy fina, en zonas estratégicas de la cara para mejorar la calidad de la piel. El resultado es una piel más lisa y estimulada que se ve más joven.</p><p class='caption-small'>Recomendación: realizar 2 veces al año.</p>",
+        "treatment-10-title": "BICHECTOMIA",
+        "treatment-10-text": "<p>Este es un procedimiento quirúrgico poco invasivo, que remueve las bolas de Bichat o tejido adiposo de las mejillas.</p><p>El resultado es un rostro más fino en el que en consecuencia de ello se marcan más los pómulos.</p><p>Es un tratamiento permanente. Es necesaria una buena evaluación médica previa, en la que se decidirá si el posible tratamiento nos dará los resultados que esperamos.</p>"
+      }
+    },
+
+    "treatment-cat-restorative-dentistry": {
+      "treatment-cat-title": "ODONTOLOGÍA RESTAURADORA Y TERAPÉUTICA",
+      "treatment-1-title": "DOLOR MIOFACIAL E NEURALGIAS",
+      "treatment-1-text": "<p>Pocas veces le damos la importancia que merecen a los músculos. Son, en innumerables ocasiones, los causantes de dolores de cabeza difusos, dolores faciales, en el cuello, cervicales y antebrazos.</p><p>Un diagnóstico certero puede mejorar muchísimo la calidad de vida del paciente. El tratamiento combinado con toxina botulínica, una placa de bruxismo, junto con especialistas de otras áreas, como la fisioterapia, ATM (especialista en la articulación temporomandibular), etc. pueden ser alternativas eficientes para la solución de estos problemas.</p><p>Colaboro con los mejores especialistas en todas las áreas de la medicina. Si necesitas ayuda con esto, solo tienes que contactarme.</p>",
+      "treatment-2-title": "LIMPEZA O TRATAMIENTO PERIODONTAL",
+      "treatment-2-text": "<p>No se puede empezar una casa por el tejado, supongo que estaréis de acuerdo. Con nuestra cavidad oral sucede lo mismo. Los cimientos de nuestra boca son el hueso y la encía. Si no realizamos una limpieza superficial y/o profunda cada 4,6 o 12 meses, la suciedad acumulada, tipo sarro, hará que se pierda encía y hueso. Si pensamos en el resultado que acarrea una pérdida de hueso y encía, la respuesta es simple, podemos terminar por perder nuestros dientes en un futuro más o menos próximo.</p><p>No sirve de nada realizarse un maravilloso tratamiento estético si no cuidamos de esta parte tan importante y en ocasiones tan “olvidada”.</p>",
+      "treatment-3-title": "ENDODONCIA O DESVITALIZACIÓN",
+      "treatment-3-text": "<p>Existen términos que han de ser explicados de una forma simple. Desvitalizar es “quitar” vida. En odontología, desvitalizar un diente es “quitarle” la vida a un diente.</p><p>Lo que da la vida a un diente son los vasos sanguíneos, que se adentran en él a través de sus raíces. Lo que le confiere sensibilidad, son los nervios, que comparten camino con esos vasos sanguíneos. Si retiramos ese conjunto de vasos sanguíneos y nervio, estamos “quitando” la vida a ese diente, lo estamos desvitalizando, con lo que el diente seguirá en boca, pero estará muerto. Algo muerto con el tiempo se va quedando más frágil y se puede llegar a romper o infectar.</p><p>Este tratamiento se realiza cuando existe una irritación crónica del diente sea por caries, fractura o infección. Y es la forma de conseguir mantener el diente por más tiempo en boca. Siempre intento evitar las endodoncias, pero cuando son necesarias, son para mi el tratamiento de elección, mucho antes que extraer el diente y colocar un implante.</p><p>No hay nada mejor que mantener nuestras piezas dentarias, no existe nada más biocompatible que eso.</p>",
+      "treatment-4-title": "IMPLANTES DENTALES",
+      "treatment-4-text": "<p>Esto es muy simple, todos lo conocéis. Cuando ya no podemos realizar ningún tratamiento más por alguna de nuestras piezas dentarias, procedemos a su extracción y posterior colocación de un implante.</p><p>El implante es un tornillo que “simula” la raíz del diente. Debemos dejarlo cicatrizar al menos 3 meses. Después de este tiempo podemos colocar la corona, que es la parte que mostramos en boca al sonreír.</p>",
+      "treatment-5-title": "CARIES DENTAL",
+      "treatment-5-text": "<p>Aquí soy muy tajante. Una caries es un diente que se está pudriendo, literalmente. Es un diente que está siendo destruido por bacterias. Sucede lo mismo con cualquiera de los alimentos que se caducan en casa. Se pudren, ¿verdad? Pues es exactamente lo mismo, pero en tus dientes.</p><p>Y lo peor de todo ese proceso es que estamos continuamente tragando esas bacterias, las cuales puedes producir cualquier tipo de enfermedad en el resto de nuestro organismo. Sí, esto también es literal.</p><p>La alimentación influye de manera directa. Un nutricionista puede completar nuestro cuidado. Pregúntame si necesitas alguno.</p>"
+    },
+
+    "treatment-cat-oral-diagnosis": {
+      "treatment-cat-title": "TÉCNICAS DE DIAGNÓSTICO BUCAL",
+      "treatment-1-title": "RAYOS X PANORÁMICO/TAC/CBCT/3D",
+      "treatment-1-text": "<p>Para un correcto diagnóstico es IMPRESCINDIBLE una radiografía panorámica, sin ella nos perdemos más del 70% de la información, por lo tanto. ¿Qué clase de diagnóstico podemos ofrecer a nuestros pacientes con solamente un 30% de información? Pues seguramente uno erróneo, o al menos uno escaso.</p><p>No existe hijo sin padre, al igual que no existe un buen diagnóstico son radiografía.</p><p>Por otro lado, cuando vamos a proceder a cualquier tipo de cirugía en la cavidad oral, jamás debería realizarse sin que el médico te pida con anterioridad una radiografía en 3D.</p><p>Con la experiencia vamos considerando que lo sabemos y controlamos todo, pero ahí está la vida para sorprendernos. Si el médico no puede ver el hueso de manera tridimensional no puede tener la certeza de que el tratamiento que va a realizar sea el adecuado. Tanto en implantes como en injertos óseos y otras cirugías mayores.</p>"
+    },
+
+    "treatment-cat-image-enhancement": {
+      "treatment-cat-title": "TÉCNICAS DE PERFECCIONAMIENTO DE LA IMAGEN",
+      "treatment-1-title": "VISAGISMO",
+      "treatment-1-text": "<p>Existen varios tipos de rostro. Cada uno de nosotros nos encajamos en uno de ellos. Dentro de mis estudios de consultoría de imagen, esta es una de las partes fundamentales cuando hablamos de proporciones.</p><p>No somos todos iguales, con lo cual, no podemos tener los mismos dientes, ni colocarnos el maquillaje de la misma forma, ni utilizar los mismos complementos y/o peinados. Bueno, sí podemos, pero si lo que queremos es destacar nuestros rasgos más bellos y disimular nuestras “perfectas imperfecciones”, debemos conocer a qué tipo facial pertenecemos.</p><p>Esta parte, en mi trabajo de armonización orofacial lo es todo. Desde el diseño de los dientes, la colocación de la toxina botulínica, ácido hialurónico e incluso el maquillaje de mis pacientes. (tanto en hombre como en mujeres).</p>",
+      "treatment-2-title": "ESTUDIO ANTROPOMÉTRICO",
+      "treatment-2-text": "<p>Esta parte la estudiamos cuando el paciente quiere ir un pasito más allá. Es similar al visagismo, pero aquí estudiamos el tipo de cuerpo, las medidas corporales, la postura y proporción corporal, las correcciones corporales, etc.</p><p>El resultado de este estudio es conocer el tipo de cuerpo que presenta el paciente para así encontrar los complementos más apropiados según la proporciones y tipologías corporales, tanto femeninas como masculinas.</p><p>Aquí sucede lo mismo, no todos tenemos el mismo cuerpo, con lo que no a todos nos favorecen los mismos tipos de prendas, podemos llevarlos todos, pero no si lo que queremos es destacar.</p>",
+      "treatment-3-title": "ESTUDIO DEL COLOR",
+      "treatment-3-text": "<p>Los colores que utilizamos en vestuario, maquillaje y accesorios tienen un gran impacto en la imagen personal. Todos somos diferentes y tenemos un tono de piel distinto. Debemos encontrar los colores que nos complementan para poder lucir la belleza natural que cada persona posee.</p><p>Sabiendo los colores que favorecen podemos aprender a utilizarlos de manera correcta, pudiendo así conseguir disimular defectos o exaltar partes del cuerpo que nos gustan más. Los colores afectan de manera radical a nuestra imagen, haciéndonos parecer más o menos jóvenes, e incluso creando ojeras que en realidad quizá no tengamos.</p><p>Los diferentes grupos, según los colores que más nos favorece, se dividen en las cuatro estaciones del año: OTOÑO, PRIMAVERA, INVIERNO y VERANO.</p><p>¿Te gustaría saber a cuál perteneces? Ponte en contacto conmigo ante cualquier cuestión acerca de cualquiera de estos apartados descritos anteriormente.</p>"
+    }
+  },
+
+  "page-prediagnostic": {
+    "page-title": "PREDIAGNÓSTICO ONLINE",
+    "page-title-with-responses": "Resultado de su prediagnostico online",
+    
+    "form-name": "Nombre",
+    "form-email": "Correo electrónico",
+    "form-button-send": "Obtener respuestas",
+    "form-button-back": "Volver",
+    "form-label-error": "",
+    "form-label-success": "",
+    
+    "question-title-label": "Marca ninguna, una o más opciones.",
+    "question-title-label-boolean": "Marque una de las opciones",
+
+    "question-1": {
+      "question": "¿Qué es lo que te gusta de tu sonrisa?",
+      "options": {
+        "a": "La forma de mis dientes",
+        "b": "El color de mis dientes",
+        "c": "Todos mis dientes están en su correcta posición (alineados)",
+        "d": "No me gusta mi sonrisa en general",
+        "e": "Solamente me incomodan algunos dientes"
+      },
+      "responses": {
+        "a": "Me encanta que te guste la forma de tus dientes",
+        "b": "Me gusta que te guste el color de tus dientes",
+        "c": "Qué alegría saber que tienes una buena oclusión!!",
+        "d": "Si no te gusta tu sonrisa en general, vamos a intentar analizar el por qué.",
+        "e": "Es bueno leer que solamente te incomodan algunos dientes, analicemos las razones."
+      }
+    },
+
+    "question-2": {
+      "question": "¿Qué es lo que no te gusta de tu sonrisa?",
+      "options": {
+        "a": "La forma de mis dientes",
+        "b": "El color de mis dientes",
+        "c": "Su posición no es la correcta (apiñamiento)",
+        "d": "No me gusta mi sonrisa en general",
+        "e": "Me falta uno o más dientes",
+        "f": "No lo tengo claro"
+      },
+      "responses": {
+        "a": "Si no te gusta la forma de tus dientes existen varios tratamientos que se pueden realizar para mejorar esta parte, desde las carillas de cerámica hasta las coronas de cerámica. En el caso de un diente poco destruido, incluso con pequeñas reconstrucciones estéticas con composite que modifiquen deformidades menores.",
+        "b": "Si no te gusta el color de tus dientes, es posible que con una buena limpieza y un blanqueamiento solucionemos el problema. En el caso de tinciones muy fuertes cabe la posibilidad de colocar carilla de cerámica para así cubrir el diente con el color adecuado.",
+        "c": "Si presentas apiñamiento dentário o la posición de algunos dientes te incomoda, podemos realizar un tratamiento de ortotoncia, así tendrás una sonrisa más bonita, una mejor oclusión, con lo que comerás mejor, podrás higienizarte mejor y evitarás degastes por malos contactos dentarios. El tratamiento estrella con el que trabajo es <strong>Invisalign</strong>.",
+        "d": "",
+        "e": "La falta de uno o más dientes es peligrosa por varias razones. Los dientes empezarán a desplazarse, producirás desgaste y sobrecarga en las demás piezas dentárias y perderás hueso, lo que puede impedir la colocación de implantes sin un injerto de hueso anterior a la colocación de los implantes.",
+        "f": "Si no tienes claro lo que no te gusta de tu sonrisa, lo mejor es <a href='#contacto'>marcar una consulta</a> directamente conmigo para evaluar la situación general de tu boca"
+      }
+    },
+
+    "question-3": {
+      "question": "¿Tienes algún tipo de dolor?",
+      "options": {
+        "a": "No",
+        "b": "En el cuello",
+        "c": "En las cervicales",
+        "d": "En la mandíbula",
+        "e": "En los oídos y se irradia hacia la cara",
+        "f": "Dolores de cabeza habituales",
+        "g": "Dolores alrededor de los ojos",
+        "h": "Dolor postraumático que dura más de lo habitual, al extraer un diente, al haberte realizado una desvitalización, tras un empaste.",
+        "i": "Neuralgia del Trigémino u otro tipo de neuralgia",
+        "j": "Dolores de espalda"
+      },
+      "responses": {
+        "a": "Me alegro muchísimo de que no tengas ningún tipo de dolor.",
+        "b": "Es muy probable que este dolor tenga relación directa con la boca, por apretamiento dental o rechineo, también llamado bruxismo, esto puede producir dolores en los dientes o en los maxilares. No necesariamente debes sentir dolor en los maxilares, cabe la posibilidad de que tengas dolores cervicales, en el cuello o incluso dolores de cabeza frecuentes o no, a causa de la boca, sin dolor en ella misma.",
+        "c": "Es muy probable que este dolor tenga relación directa con la boca, por apretamiento dental o rechineo, también llamado bruxismo, esto puede producir dolores en los dientes o en los maxilares. No necesariamente debes sentir dolor en los maxilares, cabe la posibilidad de que tengas dolores cervicales, en el cuello o incluso dolores de cabeza frecuentes o no, a causa de la boca, sin dolor en ella misma.",
+        "d": "Es muy probable que este dolor tenga relación directa con la boca, por apretamiento dental o rechineo, también llamado bruxismo, esto puede producir dolores en los dientes o en los maxilares. No necesariamente debes sentir dolor en los maxilares, cabe la posibilidad de que tengas dolores cervicales, en el cuello o incluso dolores de cabeza frecuentes o no, a causa de la boca, sin dolor en ella misma.",
+        "e": "Los dolores, tales como dolores de cabeza habituales, dolor en los oídos irradiado a la cara e incluso dolor alrededor de los ojos, puede significar que presente alguna afección nerviosa tipo neuralgia, migraña, etc",
+        "f": "Los dolores, tales como dolores de cabeza habituales, dolor en los oídos irradiado a la cara e incluso dolor alrededor de los ojos, puede significar que presente alguna afección nerviosa tipo neuralgia, migraña, etc",
+        "g": "Los dolores, tales como dolores de cabeza habituales, dolor en los oídos irradiado a la cara e incluso dolor alrededor de los ojos, puede significar que presente alguna afección nerviosa tipo neuralgia, migraña, etc",
+        "h": "Los dolores postraumáticos pueden ser tratados de una manera muy rápida y sencilla. El problema en este tipo de casos es que se ha visto afectado algún nervio de forma permanente y el resultado es una molesta, tipo sensibilidad y dolor al mínimo toque en la zona.",
+        "i": "La neuralgia del trigémino es el peor dolor que se puede tener, siento mucho leer esto. Hoy en día existen varias técnicas, desde básicas a más complejas y desde no medicamentosas a medicamentosas.",
+        "j": "Los dolores de espalda en general pueden tener origen en la cavidad oral, por muy difícil que parezca de creer, es así, además de las posturas corporales al dormir, al estar sentados, al trabajar, etc. La ayuda complementaria por parte de un especialista en fisioterápia es primordial. Es por ello que colaboro con una de las mejores clínicas de fisioterapia de la región de Lisboa."
+      }
+    },
+
+    "question-4": {
+      "question": "¿Presentas alguno de estos síntomas?",
+      "options": {
+        "a": "Sensibilidad dental",
+        "b": "Inflamación de encías",
+        "c": "Sensación de infección",
+        "d": "Parálisis facial"
+      },
+      "responses": {
+        "a": "Si presentas sensibilidad dental debes marcar una consulta para evaluar las causas de tu sensibilidad dental. Las posibles causas son, cáries, recesiones gingivales, desgastes dentarios, etc. Si pretendes agendar una consulta puedes hacerlo <a href='#contacto'>aquí</a>.",
+        "b": "Si presentas inflamación de encías puede deberse a varias causas, tales como irritación, exceso de sarro, higiene oral errónea, etc. <a href='#contacto'>Puede consultar aquí.</a>",
+        "c": "Si tienes sensación de infección, bajo ningún concepto te automediques con antibiótico, por varias razones. Es posible que no tengas infección y lo único que estés consiguiendo es bajar las defensas de tu cuerpo y en ese caso, padecer de infecciones más fácilmente. Por otro lado, debemos valorar esa infección y ver físicamente donde está, esto es de vital importancia para nuestro diagnóstico. Si pretendes agendar una consulta puedes hacerlo <a href='#contacto'>aquí</a>.",
+        "d": "Si padeces de parálisis facial, la cual te incomoda estéticamente y afecta tu autoestima, debes saber que existen tratamientos como la toxina botulínica y el ácido hialurónico para suavizar y mejorar de manera importante esta condición. Si pretendes agendar una consulta puedes hacerlo <a href='#contacto'>aquí</a>."
+      }
+    },
+
+    "question-5": {
+      "question": "¿Crees que realizas un buen cepillado dental?",
+      "options": {
+        "a": "Si, me siento bien en ese aspecto o al menos así lo creo.",
+        "b": "No, me gustaría hacerlo mejor y/o no logro pasarme el hilo dental y/o no sé cual es el mejor tipo de cepillo dental, etc."
+      },
+      "responses": {
+        "a": "Te sientes bien con tu higiene oral? No sabes cuánto me alegra saber esto!",
+        "b": "Entiendo que no sepas cepillarte bien o pasarte el hilo dental, nadie nace con el conocimiento absoluto de todo. Tengo varios trucos interesantes que te puedo enseñar a través de mi blog. Mi blog está casi listo, mientras tanto pide el artículo <a href='#contacto'>aqui</a>."
+      }
+    },
+
+    "question-6": {
+      "question": "Señala uno o varios aspectos que te preocupen además de tu sonrisa y salud oral.",
+      "options": {
+        "a": "Solamente me preocupa mi sonrisa",
+        "b": "Mis labios son finos",
+        "c": "Empiezo a tener arrugas o ya tengo algunas arrugas marcadas",
+        "d": "Me gustaría mejorar mi nariz",
+        "e": "Mis pómulos no están muy marcados",
+        "f": "Tengo poca cantidad de pestañas o son muy cortas o finas",
+        "g": "Me gustaría afinar mi cara",
+        "h": "No consigo controlar mi piel, tengo imperfecciones y/o poros dilatados y/o tendencia acneica y/o manchas y/o hiperpigmentaciones y/o rosácea y/o dermatitis y/o lunares que han ido aumentando de tamaño a lo largo del tiempo",
+        "i": "No encuentro un cirujano plástico que me inspire confianza"
+      },
+      "responses": {
+        "a": "Si solamente te preocupa tu sonrisa, es posible que en los puntos posteriores encuentres alguna sorpresa que te pueda interesar… o no!",
+        "b": "El tratamiento con ácido hialurónico puede rellenar tus labios finos de una forma armoniosa y natural.",
+        "c": "Si empiezas a tener arrugas, ya las tienes marcadas, o simplemente deseas prevenirlas, el tratamiento con toxina botulínica es ideal.",
+        "d": "Sabías que existe una forma de mejorar tu nariz sin cirugía? Pues la hay, se realiza con ácido hialurónico. Primero debemos valorar la viabilidad del tratamiento ya que no todos los “defectos” en la nariz se pueden corregir sin cirugía, o al menos, en ocasiones, no por completo.",
+        "e": "El pómulo es algo que enmarca el rostro de una manera espectacular, tanto en mujeres como en hombres. El ácido hialurónico es también una opción muy adecuada para este tratamiento de volumen en el pómulo.",
+        "f": "Para las pestañas existen tratamientos que ayudan a engrosas, a hacer crecer y a alargar tus pestañas. Si por el contrario, te apetece verte unas pestañas maravillosas lo más rápido posible, desde lo más natural, tengo la colaboración adecuada para ti. Por qué? Porque es donde yo me realizo las mias. Consulte <a href='#contacto'>aquí</a> la información del establecimiento.",
+        "g": "Si tu cara es muy ancha y no es de tu agrado, es posible que necesites una bichetomia. Antes de realizar este tipo de tratamiento se debe valorar con exactitud si es lo más adecuado para ti y así evitar problemas futuros de flacidez.",
+        "h": "Si no consigues controlar tu piel o tienes algun lunar que crece poco a poco, dermatitis, imperfecciones o cualquier problema relacionado con la piel, debo recomendarte al mejor dermatólogo tanto nacional como internacional, el Dr Luis Uva, de la Clínica Personalderma en Lisboa. Puedes encontrar más información, tal como su experiencia, Curriculum, y contacto en su página web <a href='https://www.luisuva.com/'>aquí</a>",
+        "i": "Si hablamos de cirugía plástica, la <a href='https://personalderma.pt/'>Clínica Personalderma</a> está compuesta por personal altamente cualificado en esta y otras especialidades."
+      }
+    },
+    
+    "question-7": {
+      "question": "Vamos un poco más allá… ¿Alguna cosa más que te gustaría mejorar o fortalecer? Marca una o más opciones.",
+      "options": {
+        "a": "No sé sacarme partido con el maquillaje",
+        "b": "No tengo una idea clara de los colores que mejor me sientan",
+        "c": "No tengo una idea clara de la ropa que mejor me sienta.",
+        "d": "Últimamente me siento desanimada y con una baja autoestima.",
+        "e": "No encuentro un entrenador personal que me haga ser constante",
+        "f": "Me gustaría mejorar mis cejas",
+        "g": "Me gustaría encontrar un tipo de dieta equilibrado, individualizado y fácil de llevar a cabo y/o tratar de algún aspecto relacionado con la nutrición"
+      },
+      "responses": {
+        "a": "Si no sabes sacarte el partido que deberias a tu forma de rostro, a tu forma de cuerpo e incluso saber con exactitud los colores que más te favorecen, la mejor opción es hacerte la <a href='/aperfeicoamento-imagem#estudo-antropometrico'>prueba de antropometría</a>, para que tengas el conocimiento de la ropa que te puede sentar mejor; por otro lado la <a href='/aperfeicoamento-imagem#visagismo'>prueba de visagismo</a>, para que conozcos el tipo de rostro que presentas y así sacar el mayor partido a tu maquillaje; y por último la <a href='/aperfeicoamento-imagem#estudo-color'>prueba de color</a>, que te ofrecerá información sobre los colores que más te favorecen, no solamente para tu ropa, sino también para tu maquillaje e incluso tu sonrisa.",
+        "b": "Si no sabes sacarte el partido que deberias a tu forma de rostro, a tu forma de cuerpo e incluso saber con exactitud los colores que más te favorecen, la mejor opción es hacerte la <a href='/aperfeicoamento-imagem#estudo-antropometrico'>prueba de antropometría</a>, para que tengas el conocimiento de la ropa que te puede sentar mejor; por otro lado la <a href='/aperfeicoamento-imagem#visagismo'>prueba de visagismo</a>, para que conozcos el tipo de rostro que presentas y así sacar el mayor partido a tu maquillaje; y por último la <a href='/aperfeicoamento-imagem#estudo-color'>prueba de color</a>, que te ofrecerá información sobre los colores que más te favorecen, no solamente para tu ropa, sino también para tu maquillaje e incluso tu sonrisa.",
+        "c": "Si no sabes sacarte el partido que deberias a tu forma de rostro, a tu forma de cuerpo e incluso saber con exactitud los colores que más te favorecen, la mejor opción es hacerte la <a href='/aperfeicoamento-imagem#estudo-antropometrico'>prueba de antropometría</a>, para que tengas el conocimiento de la ropa que te puede sentar mejor; por otro lado la <a href='/aperfeicoamento-imagem#visagismo'>prueba de visagismo</a>, para que conozcos el tipo de rostro que presentas y así sacar el mayor partido a tu maquillaje; y por último la <a href='/aperfeicoamento-imagem#estudo-color'>prueba de color</a>, que te ofrecerá información sobre los colores que más te favorecen, no solamente para tu ropa, sino también para tu maquillaje e incluso tu sonrisa.",
+        "d": "Todos, en algún momento o fase de nuestra vida podemos necesitar de una pequeña ayuda psicológica, lo cual es natural y está a la orden del día. También puede ser que tus problemas de autoestima vengan simplemente porque no sabes como mejorar la imagen. Si necesitas ayuda psicológica te recomiendo a un psicólogo de referencia con el que colaboro para <a href='#contacto'>prestar este servicio</a>. Si tu baja autoestima se debe a la imagen, por favor, deja que <a href='#contacto'>yo misma</a> trate de ti, lo haré con mucho gusto y con mucho cariño!",
+        "e": "Un entrenador personal? Claro que sí, colaboro con el mejor. <a href='#contacto'>Consulte aquí</a>.",
+        "f": "Ay las cejas, lo importantes que son para favorecer nuestra mirada. Yo, colaboro con la mejor, ella reside en el centro de Madrid, es la que trató de mis cejas en su momento, y sigue cuidando de ellas. Si necesitas  ser tratada/o en Lisboa, también colaboro con una persona de mi confianza. <a href='#contacto'>Consulte aquí</a>.",
+        "g": "Si necesitas un nutricionista, colaboro con la mejor, de mi absoluta confianza, con un trato muy agradable y cercano. <a href='#contacto'>Consulte aquí</a>."
+      }
+    },
+
+    "question-8": {
+      "question": "¿Te has realizado algún tipo de tratamiento estético facial, dentario o corporal y buscas a otro profesional que pueda solucionar tu problema?",
+      "options": {
+        "a": "No",
+        "b": "Si"
+      },
+      "responses": {
+        "a": "",
+        "b": "Para poder responder de manera adecuada a tu problema estético, corporal, dental, o de cualquier otra índole y buscar así la mejor alternativa de tratamiento, debo analizar con mayor profundidad esta cuestión. Pincha <a href='#contacto'>aquí</a> y rellena el formulario para concertar una cita conmigo, online o presencial."
+      }
+    },
+
+    "question-9": {
+      "question": "¿Te gustaría conocer los mejores productos según tu tipo de piel?",
+      "options": {
+        "a": "No",
+        "b": "Seca",
+        "c": "Grasa",
+        "d": "Mixta",
+        "e": "No lo sé, pero me gustaría saberlo"
+      },
+      "responses": {
+        "a": "",
+        "b": "Estos productos son los recomendados para tu tipo de piel. La tienda está casi lista mientras tanto pide tu información <a href='#contacto'>aquí</a>.",
+        "c": "Estos productos son los recomendados para tu tipo de piel. La tienda está casi lista mientras tanto pide tu información <a href='#contacto'>aquí</a>.",
+        "d": "Estos productos son los recomendados para tu tipo de piel. La tienda está casi lista mientras tanto pide tu información <a href='#contacto'>aquí</a>.",
+        "e": "<a href='#contacto'>Pincha aquí</a> y explica con la mayor exactitud los que sientes o presentas en tu piel habitualmente. Tu piel brilla mucho y no te gusta, brilla pero solo en algunas zonas y cuales, es muy seca, poros dilatados, puntos negros o simplemente no lo sabes pero la sientes bastante bien. Con esta información podré enviarte recomendaciones de productos que se ajusten mejor a tu tipo de piel o incluso información del mejor Dermatólogo de Lisboa para poder asesorarte mejor si lo que presentas son problemas más serios."
+      }
+    }
+  },
+
+  "section-contact": {
+    "section-title": "Contacto",
+    "section-subtitle": "¿Desea aclaraciones, discutir colaboraciones o agendar una cita? Rellene el siguiente formulario.",
+    "form-name": "Nombre",
+    "form-email": "Correo electrónico",
+    "form-subject": "Tema",
+    "form-subject-1": "Consulta online",
+    "form-subject-2": "Pedir una cita",
+    "form-subject-3": "Urgencia",
+    "form-subject-4": "Otro",
+    "form-message": "Su mensaje",
+    "form-button": "ENVIAR MENSAJE",
+    "form-success-message": "Mensage enviada!",
+    
+    "giftcard": {
+      "close-button": "Cerrar",
+      "title": "SOLICITAR TARJETA REGALO",
+      "form-name": "Nombre Completo",
+      "form-email": "E-mail",
+      "form-destiny": "A quien va dirigido",
+      "form-gift": "Escoja el regalo",
+      "form-gift-1": "Blanqueamiento dental + Limpieza – €200",
+      "form-gift-2": "Consulta de evaluación + Limpieza – €90",
+      "form-gift-3": "Tratamiento de botox – €350",
+      "form-gift-4": "Relleno de acido hualurónico – €350",
+      "form-gift-5": "Consulta de visagismo + Estudio del color + Estudio antropométrico – €200",
+      "form-gift-6": "Carillas de cerámica – €600",
+      "form-gift-7": "Sonrisa gingival con botox – €200",
+      "form-gift-8": "Gingivoplastia – €80",
+      "form-gift-9": "Otras opciones",
+      "form-card-text": "Texto para la tarjeta regalo",
+      "form-message": "Le gustaria indicar algo más?",
+      "form-button": "SOLICITAR TARJETA",
+      "form-success-message": "TARJETA SOLICITADA!"
+    }
+  },
+
+  "page-privacy-policy": {
+    "section-title": "Política de privacidad",
+    "page-content": "<p>Su privacidad es importante para nosotros.</p><p>La política de Dr. Elizabeth Péan es respetar su privacidad con respecto a cualquier información que podamos recopilar de usted a través del sitio web de Dr. Elizabeth Péan.</p><p>Sólo recogemos información personal cuando realmente la necesitamos para ofrecerle el mejor servicio posible.</p><p>La recopilamos con su conocimiento y consentimiento. Sólo conservamos la información recopilada durante el tiempo necesario para prestarle el servicio solicitado.</p><p>Protegemos los datos que almacenamos con medios comercialmente aceptables para evitar la pérdida, el robo, así como el acceso, la divulgación, la copia, el uso o la modificación no autorizados.</p><p>No compartimos ninguna información personal identificable públicamente o con terceros, excepto si lo exige la ley.</p><p>Nuestro sitio puede contener enlaces a sitios externos que no son operados por nosotros. Tenga en cuenta que no tenemos control sobre el contenido y las prácticas de estos sitios, y no podemos aceptar la responsabilidad de sus políticas de privacidad.</p><p>Usted es libre de rechazar nuestra solicitud de información personal, entendiendo que es posible que no podamos proporcionarle algunos de los servicios que desea. Su uso continuado de nuestro sitio se considerará una aceptación de nuestras prácticas de privacidad e información personal. Si tiene alguna pregunta sobre la forma en que tratamos los datos del usuario y la información personal, no dude en ponerse en contacto con nosotros.</p><p><strong>Responsabilidades del usuario</strong>El usuario se compromete a hacer un uso adecuado de los contenidos e informaciones ofrecidas en el sitio con un comportamiento lícito:<strong>A)</strong>No realizar actividades ilícitas o contrarias a la buena fe y al orden público;<strong>B)</strong>No difundir propaganda o contenidos de carácter pornográfico, racista, xenófobo, terrorista o contrario a los derechos humanos;<strong>C)</strong>No provocar daños en los sistemas físicos (hardware) e inaccesibles (software) de Dr. Elízabeth Péan, sus proveedores o terceros, introduzcan o difundan en la red virus informáticos o cualesquiera otros sistemas físicos o lógicos susceptibles de provocar los daños anteriormente mencionados.</p><p>Esta política es válida a partir del 19 de septiembre de 2022.</p>"
+  }
+}

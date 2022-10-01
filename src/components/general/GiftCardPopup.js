@@ -15,7 +15,7 @@ const GiftCardPopup = (props) => {
 
   const submit = () => {
     if (name && email && message) {
-      const serviceId = 'EMAILJS_SERVICE_ID';
+      const serviceId = 'service_0bd181g';
       const templateId = 'template_fzc9614';
       const userId = 'krYIhudEa6sP8sP12';
       const templateParams = {

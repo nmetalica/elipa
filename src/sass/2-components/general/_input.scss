@@ -1,0 +1,74 @@
+/**
+ *  General
+ *  Input
+ */
+
+input,
+select,
+textarea {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 0;
+  background: transparent;
+  outline: none;
+  @extend .label-regular;
+  padding: 13px 16px 15px;
+  color: get-color(text, 1);
+}
+
+.input-group {
+  @include flex($dir: column);
+  padding-top: 16px;
+
+  &-halfs {
+    column-gap: 12px;
+  }
+
+  input,
+  textarea,
+  select {
+    @include border($all: 1.5px, $color: get-color(border, 2), $radius: 12px);
+
+    @media (prefers-color-scheme: dark) {
+      @include border($bottom: 1.5px, $color: get-color(border, 1));
+    }
+  }
+
+  label {
+    margin-bottom: 8px;
+  }
+}
+
+.checkbox-group,
+.radio-group {
+  input[type="checkbox"],
+  input[type="radio"] {
+    display: none;
+  }
+
+  label {
+    @include flex();
+    @extend .body-regular;
+    position: relative;
+
+    &::before {
+      content: '';
+      display: block;
+      @include wh(30px, 30px);
+      @include border($all: 2px, $radius: 32px, $color: get-color(border, 2));
+      flex-shrink: 0;
+      margin: 2px 12px 0 0;
+      transition: transform background-color 100ms;
+    }
+
+    &:hover::before {
+      transform: scale(1.09);
+    }
+  }
+
+  input[type="checkbox"]:checked + label::before,
+  input[type="radio"]:checked + label::before {
+    @include border($all: 2px, $radius: 32px, $color: get-color(text, 2));
+    @include background('../../../images/icons/ic-checkmark.svg', $size: 20px, $color: get-color(text, 2));
+  }
+}

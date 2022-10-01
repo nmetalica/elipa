@@ -1,0 +1,54 @@
+/**
+ *  General
+ *  Button
+ */
+
+.button {
+  text-align: center;
+  display: inline-block;
+  border: 0;
+  cursor: pointer;
+  transition: all 120ms;
+
+  &-regular {
+    @extend .button;
+    @extend .button-text-regular;
+    padding: 16px 24px;
+    @include border($all: 1.5px, $color: get-color(accent, 1), $radius: 10px);
+    background-color: get-color(background, 1);
+    filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .2));
+  }
+
+  &-large {
+    @extend .button;
+    @extend .button-text-large;
+    padding: 30px 32px;
+    @include border($all: 1.5px, $color: get-color(accent, 1), $radius: 10px);
+    background-color: get-color(background, 1);
+    filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .2));
+  }
+
+  &.secondary {
+    color: get-color(secondary, 1);
+    @include border($all: 1.5px, $color: get-color(secondary, 1), $radius: 10px);
+  }
+  
+  // &:hover,
+  // &:active {
+  //   filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .2));
+  //   transition: all 100ms;
+  //   opacity: 1;
+  // }
+
+  @include mq-max(900) {
+    &-large {
+      @include font(14, 18, 1.5, 600, $font-inter, get-color(accent, 1), uppercase, none);
+      min-height: 56px;
+      padding: 16px 24px;
+    }
+  }
+}
+
+button {
+  @extend .button;
+}

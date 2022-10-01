@@ -1,0 +1,39 @@
+/**
+ *  Page - Treatments
+ *  Categories
+ */
+
+.treatments-categories {
+  .categories-list {
+    row-gap: 80px;
+  }
+
+  .category-item {
+    [class*="button"] {
+      width: 100%;
+      max-height: 84px;
+      @include flex(center, center);
+    }
+  }
+
+  @include mq-max(900) {
+    .categories-list {
+      grid-template-columns: 1fr;
+      justify-items: center;
+      row-gap: 32px;
+      padding-bottom: 80px;
+    }
+
+    .category-item {
+      @include wh(100%, $max-w: 420px);
+    }
+
+    .category-item:last-child {
+      margin-top: 24px;
+
+      .category-img {
+        margin-bottom: 24px;
+      }
+    }
+  }
+}

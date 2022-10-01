@@ -1,0 +1,82 @@
+/**
+ *  Page - Concept
+ *  Questions
+ */
+
+.section-questions {
+  padding: 100px 0;
+
+  .questions {
+    row-gap: 80px;
+  }
+
+  .question {
+    cursor: pointer;
+
+    &-title {
+      margin-bottom: 20px;
+      max-width: $col-4;
+    }
+
+    &-response {
+      position: relative;
+      @include flex($align: center, $gap: 12px);
+      cursor: pointer;
+      transition: all 120ms;
+
+      &:hover {
+        opacity: .7;
+        transform: translateY(2px);
+      }
+
+      &::before {
+        content: '';
+        display: block;
+        @include wh(32px, 32px);
+        // @include border($all: 1.5px, $color: get-color(text, 1), $radius: 40px);
+        @include background('../../images/icons/ic-question-reveal.svg', $size: cover, $color: get-color(background, 1));
+        border-radius: 32px;
+        filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .5));
+        flex-shrink: 0;
+      }
+
+      &-full {
+        margin-top: 12px;
+        max-height: 0;
+        opacity: 0;
+        overflow: hidden;
+        transition: all 220ms;
+      }
+    }
+
+    &.revealed .question-response {
+      &:hover {
+        opacity: .7;
+        transform: translateY(-2px);
+      }
+
+      &-full {
+        max-height: 1000px;
+        opacity: 1;
+      }
+
+      &::before {
+        transform: rotate(180deg);
+      }
+    }
+  }
+
+  @include mq-max(900) {
+    padding: 90px 0;
+
+    .questions {
+      grid-template-columns: 1fr;
+      justify-items: center;
+      row-gap: 32px;
+    }
+
+    .question {
+      max-width: $col-4;
+    }
+  }
+}

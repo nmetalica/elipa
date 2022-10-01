@@ -1,0 +1,156 @@
+//
+// Base
+// Mixins
+//
+
+$images-path: '';
+
+// Sets background properties
+@mixin background($name: null, $color: null, $posX: center, $posY: center, $size: null, $repeat: no-repeat) {
+  background: url(#{$images-path}#{$name}) $color $posX $posY $repeat;
+  background-size: $size;
+}
+
+// Sets all necessary font properties
+@mixin font($size, $line-height, $letter-spacing, $weight: null, $family: $font-garamond, $color: null, $transform: null, $decoration: null) {
+  font-family: $family;
+  font-size: $size + px;
+  line-height: $line-height + px;
+  letter-spacing: $letter-spacing + px;
+  font-weight: $weight;
+  color: $color;
+  text-transform: $transform;
+  text-decoration: $decoration;
+}
+
+// Sets width and height, with 'px' as the default unir
+@mixin wh($width, $height: null, $max-w: null, $max-h: null, $min-w: null, $min-h: null) {
+  width: $width;
+  height: $height;
+  max-width: $max-w;
+  min-width: $min-w;
+  max-height: $max-h;
+  min-height: $min-h;
+}
+
+// Hides Text
+@mixin hide-text() {
+  text-indent: -999999em;
+  overflow: hidden;
+  text-align: left;
+}
+
+// Sets position, coordinates and z-index value.
+// Defaults to position: absolute
+@mixin pos($top: null, $right: null, $bottom: null, $left: null, $pos: absolute, $z: null) {
+  position: $pos;
+  top: $top;
+  right: $right;
+  bottom: $bottom;
+  left: $left;
+  z-index: $z;
+}
+
+// Sets display to flex, and assigns other properties
+@mixin flex($justify: null, $align: null, $dir: null, $dis: true, $gap: null, $gap-r: null) {
+  @if $dis {
+    display: flex;
+  }
+
+  flex-direction: $dir;
+  justify-content: $justify;
+  align-items: $align;
+  gap: $gap;
+  row-gap: $gap-r;
+}
+
+// Sets display to grid and assigns other properties
+@mixin grid($cols: null, $rows: null, $gap: 30px, $justify: null, $align: null) {
+  display: grid;
+  grid-gap: $gap;
+  grid-template-columns: $cols;
+  grid-template-rows: $rows;
+  justify-content: $justify;
+  align-items: $align;
+}
+
+// Sets a min-width media query
+@mixin mq-min($size) {
+  @media (min-width: $size+"px") {
+    @content;
+  }
+}
+
+// Sets a max-width media query
+@mixin mq-max($size) {
+  @media (max-width: $size+"px") {
+    @content;
+  }
+}
+
+// Replace text with image
+@mixin replace-text($image, $pos-x: center, $pos-y: center, $size: cover, $width: null, $height: null) {
+  text-indent: -999999em;
+  overflow: hidden;
+  text-align: left;
+  display: inline-block;
+  width: $width;
+  height: $height;
+
+  @include background($image, $pos-x, $pos-y, $size);
+}
+
+// Creates icon with or without a mask
+@mixin icon($icon, $width, $height, $color: null) {
+  display: inline-block;
+  @include wh($width, $height);
+
+  @if $color {
+    background-color: $color;
+    -webkit-mask: url('../images/icons/icon-#{$icon}.svg') no-repeat;
+    -webkit-mask-size: 100%;
+    mask: url('../images/icons/icon-#{$icon}.svg') no-repeat;
+    mask-size: 100%;
+  } @else {
+    @include background('../images/icons/icon-#{$icon}.svg', $size: 100%);
+  }
+}
+
+// Transform mixin
+@mixin transform($property) {
+  -webkit-transform: $property;
+  -ms-transform: $property;
+  transform: $property;
+}
+
+// Sets "content" and "display" for ::before and ::after
+@mixin pseudo($content: '', $display: block) {
+  content: $content;
+  display: $display;
+}
+
+// Creates borders using box-shadow
+@mixin border(
+  $top: 0,
+  $bottom: 0,
+  $left: 0,
+  $right: 0,
+  $all: null,
+  $color: null,
+  $radius: null,
+  $radius-tl: null,
+  $radius-tr: null,
+  $radius-bl: null,
+  $radius-br: null) {
+  @if $all {
+    box-shadow: inset 0 0 0 #{$all} #{$color};
+  } @else {
+    box-shadow: inset 0 #{$top} 0 0 #{$color}, inset 0 -#{$bottom} 0 0 #{$color}, inset #{$left} 0 0 0 #{$color}, inset -#{$right} 0 0 0 #{$color};
+  }
+
+  border-radius: $radius;
+  border-top-left-radius: $radius-tl;
+  border-top-right-radius: $radius-tr;
+  border-bottom-left-radius: $radius-bl;
+  border-bottom-right-radius: $radius-br;
+}

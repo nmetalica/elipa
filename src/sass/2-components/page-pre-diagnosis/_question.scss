@@ -1,0 +1,91 @@
+/**
+ *  Page - Pre Diagnosis
+ *  Questions
+ */
+
+.diagnosis-questions {
+  counter-reset: question;
+  background: linear-gradient(180deg, rgba(243, 240, 236, 0) 0%, #F3F0EC 100%);
+  padding-bottom: 120px;
+
+  .diagnosis-form {
+    & > div {
+      @include flex($align: center, $dir: column, $gap: 80px);
+    }
+
+    .question-group {
+      width: 100%;
+
+      .question-header {
+        margin-bottom: 32px;
+
+        .question-title {
+          margin-bottom: 12px;
+          position: relative;
+
+          &::before {
+            counter-increment: question;
+            content: counter(question) " – ";
+            text-align: right;
+            @include pos($right: 100%);
+            width: 50px;
+            margin-right: 12px;
+          }
+
+          &.no-number::before {
+            display: none;
+          }
+        }
+
+        [class*="subtitle"] {
+          color: get-color(text, 3);
+        }
+      }
+
+      .question-options {
+        @include flex($dir: column, $gap: 14px);
+      }
+
+      .question-responses {
+        @include flex($dir: column, $gap: 24px);
+
+        .response-option-title {
+          font-weight: 700;
+          margin-bottom: 4px;
+        }
+
+        img {
+          @include wh(100%, 380px);
+          object-fit: contain;
+        }
+      }
+    }
+  }
+
+  @include mq-max(900) {
+    .diagnosis-form {
+      .question-group {
+        .question-header {
+          .question-title {
+            &::before {
+              position: initial;
+            }
+          }
+        }
+      }
+    }
+
+    .submit-response-form {
+      width: 100%;
+  
+      .input-group-halfs {
+        width: 100%;
+        flex-direction: column;
+      }
+  
+      .input-group {
+        width: 100%;
+      }
+    }
+  }
+}

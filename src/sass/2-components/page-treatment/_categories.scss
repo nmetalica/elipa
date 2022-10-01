@@ -1,0 +1,72 @@
+/**
+ *  Page - Cosmetic Dentistry
+ *  Categories
+ */
+
+.treatment-categories {
+  background: linear-gradient(180deg, rgba(243, 240, 236, 0) 0%, #F3F0EC 100%);
+}
+
+.treatment-category {
+  padding-bottom: 120px;
+
+  .treatment-category-header {
+    padding-bottom: 48px;
+    text-align: center;
+  }
+
+  .treaments-list {
+    .treatment-item {
+      @include flex($align: center, $gap: 48px);
+
+      & + .treatment-item {
+        margin-top: 72px;
+      }
+    }
+
+    .treatment-img {
+      @include wh(100%, $max-w: $col-3);
+      flex-shrink: 0;
+    }
+
+    .treatment-name {
+      margin-bottom: 16px;
+    }
+
+    .treatment-content p:not(.treatment-name):not(.caption-small) {
+      margin-top: 8px;
+    }
+
+    .treatment-content p.caption-small {
+      margin-top: 6px;
+    }
+
+    p:not(.caption-small) {
+      @extend .body-smaller;
+    }
+
+    p:not(.caption-small) + p.caption-small {
+      margin-top: 20px;
+    }
+  }
+
+  @include mq-max(900) {
+    .treaments-list {
+      .treatment-item {
+        flex-direction: column;
+
+        & + .treatment-item {
+          margin-top: 56px;
+        }
+      }
+
+      .treatment-img {
+        img {
+          width: 100%;
+          height: 240px;
+          object-fit: cover;
+        }
+      }
+    }
+  }
+}

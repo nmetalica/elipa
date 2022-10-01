@@ -1,0 +1,67 @@
+/**
+ *  Page - Home
+ *  Giftcard Ppopup
+ */
+
+.giftcard-popup {
+  @include wh(100vw, 100vh);
+  @include pos(0, 0, $pos: fixed, $z: 99);
+  @include flex(center, center);
+
+  .card {
+    background-color: #FFF;
+    @include wh(100%, $max-w: 720px);
+    padding: 80px 64px;
+    border-radius: 24px;
+    position: relative;
+    margin: 0 24px;
+    max-height: calc(100vh - 56px);
+    overflow-y: scroll;
+  }
+
+  .card-title {
+    margin-bottom: 40px;
+  }
+
+  .close {
+    font-size: 16px;
+    @include pos(32px, 32px);
+    cursor: pointer;
+  }
+  
+  .background {
+    @include wh(100%, 100%);
+    @include pos(0, 0, $z: -1);
+    background-color: #000;
+    opacity: .8;
+    cursor: pointer;
+  }
+
+  &.hide {
+    opacity: 0;
+    visibility: hidden;
+  }
+
+  &.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  @include mq-max(768) {
+    .card {
+      height: 92vh;
+      overflow-y: scroll;
+      padding: 64px 32px;
+    }
+
+    .close {
+      @include pos(56px, 48px, $pos: fixed);
+    }
+  }
+
+  @include mq-max(390) {
+    .card {
+      padding-inline: 24px;
+    }
+  }
+}

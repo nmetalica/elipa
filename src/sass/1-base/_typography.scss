@@ -1,0 +1,183 @@
+/**
+ *  Base
+ *  Typography
+ */
+
+// Titles
+.title {
+  text-transform: uppercase;
+
+  &-1 {
+    @extend .title;
+    @include font(54, 48, -0.2, 600);
+  }
+
+  &-2 {
+    @extend .title;
+    @include font(44, 40, -0.2, 600);
+  }
+
+  &-3 {
+    @extend .title;
+    @include font(32, 32, 0, 600);
+
+    &.light {
+      font-weight: 400;
+      letter-spacing: 2px;
+    }
+  }
+
+  &-4 {
+    @extend .title;
+    @include font(26, 32, -0.2, 600);
+  }
+
+  &-5 {
+    @extend .title;
+    @include font(22, 24, -0.1, 600);
+  }
+
+  &.lowercase {
+    text-transform: none;
+  }
+
+  @include mq-max(900) {
+    &-1 {
+      @include font(40, 36, 0, 600);
+    }
+
+    &-2 {
+      @include font(26, 24, -0.8, 600);
+    }
+
+    &-3 {
+      @include font(26, 28, 0, 600);
+    }
+
+    &-5 {
+      @include font(20, 20, -.1, 600);
+    }
+  }
+}
+
+.subtitle {
+  &-regular {
+    @extend .subtitle;
+    @include font(20, 28, 0, 400, $font-inter);
+  }
+
+  &-small {
+    @extend .subtitle;
+    @include font(18, 28, 0.4, 500, $font-inter);
+  }
+
+  &-smaller {
+    @extend .subtitle;
+    @include font(16, 20, 0.25, 500, $font-inter);
+  }
+
+  a {
+    color: get-color(accent, 1);
+    text-decoration: underline;
+  }
+}
+
+// Body
+.body {
+  &-large {
+    @extend .body;
+    @include font(26, 36, 0.08, 500);
+  }
+
+  &-regular {
+    @extend .body;
+    @include font(24, 32, 0, 400);
+  }
+
+  &-small {
+    @extend .body;
+    @include font(22, 28, 0, 400);
+  }
+  
+  &-smaller {
+    @extend .body;
+    @include font(20, 24, 0, 400);
+  }
+
+  .italic {
+    font-style: italic;
+  }
+
+  &.bold {
+    font-weight: 700;
+  }
+
+  a {
+    color: get-color(accent, 1);
+    text-decoration: underline;
+  }
+
+  @include mq-max(900) {
+    &-large {
+      @include font(24, 32, 0, 500);
+    }
+  
+    &-regular {
+      @include font(22, 28, 0, 400);
+    }
+  
+    &-small {
+      @include font(20, 24, 0, 400);
+    }
+    
+    &-smaller {
+      @include font(18, 20, 0, 400);
+    }
+  }
+}
+
+// Caption
+.caption {
+  &-regular {
+    @include font(18, 20, -0.1, 600);
+  }
+
+  &-small {
+    @include font(16, 16, -0.1, 600);
+  }
+}
+
+// Label
+.label {
+  cursor: pointer;
+
+  &-regular {
+    @extend .label;
+    @include font(17, 20, 0, 500, $font-inter);
+  }
+
+  &-small {
+    @extend .label;
+    @include font(14, 14, 0, 500, $font-inter);
+  }
+}
+
+label {
+  @extend .label-regular;
+}
+
+// Button
+.button-text {
+  &-large {
+    @include font(20, 24, 0.5, 600, $font-inter, get-color(accent, 1), uppercase, none);
+  }
+
+  &-regular {
+    @include font(14, 14, 1.5, 600, $font-inter, get-color(accent, 1), uppercase, none);
+    transition: opacity 120ms;
+
+    &:hover {
+      opacity: .7;
+    }
+  }
+}

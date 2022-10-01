@@ -1,0 +1,138 @@
+/**
+ *  General
+ *  Header
+ */
+
+.header-main {
+  padding: 32px 0;
+
+  .logo {
+    justify-self: center;
+  }
+
+  ul {
+    align-self: center;
+  }
+
+  .left-actions {
+     @include flex($dir: column, $gap: 10px);
+
+     li {
+       a {
+         @include flex($align: center, $gap: 8px);
+
+         &::before {
+           content: '';
+           display: block;
+           @include wh(20px, 20px);
+         }
+       }
+
+       &.ig a::before {
+         @include background('../../../images/icons/ic-instagram.svg');
+       }
+
+       &.email a::before {
+         @include background('../../../images/icons/ic-email.svg');
+       }
+
+      &.phone a::before {
+        @include background('../../../images/icons/ic-phone.svg', $size: cover);
+      }
+
+      &.linkedin a::before {
+        @include background('../../../images/icons/ic-linkedin.svg', $size: cover);
+      }
+     }
+   }
+
+  .right-actions {
+    justify-self: end;
+    align-items: center;
+    @include flex($gap: 48px);
+
+    .locale-switcher {
+      @include flex($gap: 16px);
+
+      button {
+        background: none;
+        @extend .button-text-regular;
+
+        &:not(.active) {
+          opacity: .4;
+        }
+      }
+    }
+  }
+
+  .button-contact {
+    &-mobile {
+      display: none;
+    }
+  }
+
+  .button-phone-mobile {
+    display: none;
+  }
+
+  @include mq-max(900) {
+    padding-top: 0px;
+
+    .grid-3 {
+      grid-template-columns: 1fr;
+    }
+
+    ul,
+    .right-actions,
+    .left-actions {
+      justify-self: center;
+    }
+
+    .right-actions {
+      @include flex(center, center);
+      padding-top: 32px;
+      order: -1;
+      gap: 0;
+      width: 100%;
+
+      li,
+      li a {
+        width: 100%;
+      }
+    }
+
+    .left-actions {
+      order: 2;
+      align-items: center;
+
+      .phone {
+        display: none;
+      }
+    }
+
+    .button-contact {
+      &-desktop {
+        display: none;
+      }
+
+      &-mobile {
+        display: block;
+        width: 100%;
+      }
+    }
+
+    .button-phone-mobile {
+      display: block;
+      order: 3;
+      @include flex(center, center);
+
+      &::before {
+        content: '';
+        display: block;
+        @include wh(24px, 24px);
+        @include background('../../../images/icons/ic-whatsapp.svg', $size: cover);
+        margin-right: 8px;
+      }
+    }
+  }
+}

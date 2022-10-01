@@ -1,0 +1,82 @@
+/**
+ * Layout
+ * Structure
+ */
+
+.container {
+  width: 100%;
+  max-width: calc(#{$container-width} + #{$container-padding * 2});
+  padding: 0 #{$container-padding};
+  margin: auto;
+  position: relative;
+
+  &-10 {
+    @extend .container;
+    max-width: calc(#{$col-10} + #{$container-padding * 2});
+  }
+
+  &-9 {
+    @extend .container;
+    max-width: calc(#{$col-9} + #{$container-padding * 2});
+  }
+
+  &-8 {
+    @extend .container;
+    max-width: calc(#{$col-8} + #{$container-padding * 2});
+  }
+
+  &-6 {
+    @extend .container;
+    max-width: calc(#{$col-6} + #{$container-padding * 2});
+  }
+}
+
+// Grids structure
+.grid {
+  display: grid;
+  grid-gap: $container-gap-width;
+
+  &-2 {
+    @extend .grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  &-3 {
+    @extend .grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// Flexbox helpers
+.flex {
+  @include flex();
+
+  &-center-col {
+    @include flex($align: center, $dir: column);
+  }
+
+  &.align {
+    &-center {
+      align-items: center;
+    }
+  }
+
+  &-col {
+    @include flex($align: center, $dir: column, $gap: 30px);
+  }
+
+  &-col-3 {
+    width: 100%;
+    @include flex(center, $gap: $container-gap-width);
+    flex-wrap: wrap;
+
+    > * {
+      flex: 1 0 auto;
+      @include wh(100%, $max-w: $col-3);
+    }
+  }
+
+  &-repel {
+    @include flex(space-between);
+  }
+}

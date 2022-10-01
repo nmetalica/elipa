@@ -1,0 +1,16 @@
+/**
+ *  General
+ *  Logo
+ */
+
+.logo {
+  @include wh(160px, 166px);
+  @include background('../../../images/logo.png', $size: cover);
+  @include hide-text;
+  transition: transform 130ms;
+  filter: drop-shadow(0px 0px 66px rgba(0, 0, 0, 0.3));
+
+  &:hover {
+    transform: scale(1.035);
+  }
+}

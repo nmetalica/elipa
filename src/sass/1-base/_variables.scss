@@ -1,0 +1,60 @@
+//
+// Base
+// Variables
+//
+
+// Colors
+@function get-color($main, $variation: null, $palette: $colors) {
+  @if $variation {
+    @return map-get(map-get($palette, $main), $variation);
+  } @else {
+    @return map-get($palette, $main);
+  }
+}
+
+$colors: (
+  background: (
+    1: #FFFCFA,
+    2: #F3F0EC
+  ),
+  accent: (
+    1: #927B35
+  ),
+  secondary: (
+    1: #DE8BB0
+  ),
+  text: (
+    1: #413614,
+    2: #5c584a,
+    3: #94928a
+  ),
+  border: (
+    1: #EEEAE5,
+    2: #D6D1C8
+  )
+);
+
+//Layout
+$container-column-count: 12;
+$container-column-width: 82px;
+$container-gap-width: 30px;
+$container-width: ($container-column-width * $container-column-count) + ($container-gap-width * ($container-column-count - 1));
+$container-padding: 20px;
+
+$col-1: $container-column-width;
+$col-2: ($container-column-width * 2) + ($container-gap-width * 1);
+$col-3: ($container-column-width * 3) + ($container-gap-width * 2);
+$col-4: ($container-column-width * 4) + ($container-gap-width * 3);
+$col-5: ($container-column-width * 5) + ($container-gap-width * 4);
+$col-6: ($container-column-width * 6) + ($container-gap-width * 5);
+$col-7: ($container-column-width * 7) + ($container-gap-width * 6);
+$col-8: ($container-column-width * 8) + ($container-gap-width * 7);
+$col-9: ($container-column-width * 9) + ($container-gap-width * 8);
+$col-10: ($container-column-width * 10) + ($container-gap-width * 9);
+$col-11: ($container-column-width * 11) + ($container-gap-width * 10);
+$col-12: ($container-column-width * 12) + ($container-gap-width * 11);
+
+
+// Fonts
+$font-inter: Inter, Helvetica, Arial, sans-serif;
+$font-garamond: 'EB Garamond', Georgia, serif;

@@ -1,0 +1,123 @@
+/**
+ *  General
+ *  Contact Section
+ */
+
+.contact-section {
+	
+  padding: 100px 0;
+  //background: linear-gradient(180deg,#E2D7C8  0%, rgba(238, 231, 222, 0) 100%);
+background: linear-gradient(180deg, rgba(243, 240, 236, 0) 0%, #F3F0EC 100%);
+  .section-header {
+    text-align: center;
+    margin-bottom: 80px;
+
+    .section-title {
+      margin-bottom: 24px;
+    }
+
+    .section-subtitle {
+      max-width: $col-6;
+      color: get-color(text, 2);
+    }
+  }
+
+  .section-content {
+    align-items: center;
+  }
+
+  .input-group {
+    label {
+      color: get-color(text, 3);
+    }
+
+    & + .input-group {
+      margin-top: 16px;
+    }
+  }
+
+  .form-submit {
+    margin-top: 48px;
+  }
+
+  .success-message {
+    margin-top: 16px;
+  }
+
+  .gift-card {
+    justify-self: end;
+
+    .card {
+      @include wh(100%, 500px, 370px);
+      @include background('../../../images/gift-card.jpg', $size: cover);
+      @include flex($align: flex-end);
+      border-radius: 24px;
+      padding: 64px 36px;
+      position: relative;
+      transition: all 120ms;
+      cursor: pointer;
+
+      &:hover,
+      &:active {
+        transform: scale(1.018);
+        filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .2));
+      }
+
+      &::after {
+        content: '';
+        display: block;
+        @include wh(62px, 10px);
+        @include background('../../../images/icons/ic-arrow-long.svg');
+        @include pos($bottom: 30px, $left: 36px);
+      }
+
+      p {
+        @include font(44, 44, 0, 400, $color: #563C48);
+
+        @media (prefers-color-scheme: dark) {
+          color: #c1829f;
+        }
+      }
+    }
+  }
+
+  .map {
+    border: 0;
+    width: 100%;
+    margin-top: 80px;
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  @include mq-max(900) {
+    .section-header {
+      margin-bottom: 40px;
+    }
+    
+    .section-content {
+      grid-template-columns: 1fr;
+      row-gap: 64px;
+    }
+
+    .contact-form {
+      @include wh(100%, $max-w: $col-5);
+    }
+
+    .contact-form,
+    .gift-card {
+      justify-self: center;
+    }
+  }
+
+  @include mq-max(360) {
+    .gift-card {
+      .card {
+        padding-inline: 24px;
+
+        p {
+          @include font(40, 36, 0, 400, $color: #563C48);
+        }
+      }
+    }
+  }
+}

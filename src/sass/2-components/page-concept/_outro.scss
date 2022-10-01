@@ -1,0 +1,25 @@
+/**
+ *  Page - Concept
+ *  Outro
+ */
+
+.section-outro {
+  padding: 100px 0;
+  background-color: get-color(background, 2);
+
+  p + p {
+    margin-top: 56px;
+  }
+
+  p[class*="title"] {
+    max-width: 560px;
+  }
+
+  @include mq-max(900) {
+    padding: 90px 0;
+
+    p + p {
+      margin-top: 40px;
+    }
+  }
+}

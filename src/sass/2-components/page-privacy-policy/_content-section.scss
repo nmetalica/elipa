@@ -1,0 +1,12 @@
+/**
+ *  Page - About
+ *  Content Section
+ */
+
+.section-content {
+  p + p {
+    margin-top: 8px;
+  }
+
+  padding-bottom: 100px;
+}

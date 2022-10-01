@@ -1,0 +1,159 @@
+/**
+ *  Page - About
+ *  Content Section
+ */
+
+.section {
+  .section-header {
+    margin-bottom: 60px;
+  }
+
+  .section-text {
+    p + p {
+      margin-top: 8px;
+    }
+  }
+
+  &-intro {
+    @extend .section;
+    padding-bottom: 120px;
+    background: linear-gradient(180deg, rgba(243, 240, 236, 0) 0%, #F3F0EC 100%);
+
+    .section-text:first-child {
+      margin-bottom: 56px;
+    }
+
+    .section-img {
+      align-self: center;
+    }
+  }
+
+  &-career {
+    @extend .section;
+    padding: 110px 0 120px;
+
+    .section-img {
+      justify-self: end;
+
+      img {
+        max-width: $col-4;
+      }
+    }
+
+    .section-text {
+      align-self: center;
+    }
+  }
+
+  &-learning {
+    @extend .section;
+    padding: 110px 0 120px;
+    background-color: get-color(background, 2);
+
+    .section-img {
+      img {
+        max-width: $col-6;
+      }
+    }
+
+    .section-content {
+      .section-text {
+        column-gap: 60px;
+
+        &.grid-2 {
+          padding: 64px 0;
+        }
+
+        &:not(.grid-2) {
+          max-width: $col-6;
+        }
+
+        &:first-child {
+          margin-top: 80px;
+        }
+      }
+    }
+  }
+
+  @include mq-max(900) {
+    .section-header {
+      margin-bottom: 40px;
+    }
+
+    p {
+      max-width: $col-6;
+    }
+
+    &-intro {
+      padding-bottom: 100px;
+
+      .grid-2 {
+        grid-template-columns: 1fr;
+        justify-items: center;
+      }
+
+      .section-text:first-child {
+        margin-bottom: 32px;
+      }
+    }
+
+    &-career {
+      padding: 90px 0 100px;
+
+      .grid-2 {
+        grid-template-columns: 1fr;
+        row-gap: 32px;
+        justify-items: center;
+      }
+
+      .section-img {
+        justify-self: center;
+      }
+    }
+
+    &-learning {
+      padding: 90px 0 100px;
+
+      .grid-2 {
+        grid-template-columns: 1fr;
+        row-gap: 32px;
+        justify-items: center;
+      }
+    }
+  }
+
+  @include mq-max(620) {
+    &-career {
+      .section-img {
+        img {
+          max-width: 100%;
+        }
+      }
+    }
+
+    &-learning {
+      .section-img {
+        img {
+          max-width: 100%;
+        }
+      }
+
+      .section-content {
+        .section-text {
+          &.grid-2 {
+            padding: 8px 0;
+            row-gap: 8px;
+          }
+
+          &:not(.grid-2) {
+            max-width: $col-6;
+          }
+
+          &:first-child {
+            margin-top: 32px;
+          }
+        }
+      }
+    }
+  }
+}

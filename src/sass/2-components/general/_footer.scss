@@ -1,0 +1,38 @@
+/**
+ *  General
+ *  Footer
+ */
+
+.footer-main {
+  padding: 70px 0;
+
+  [class*="container"] {
+    align-items: center;
+    gap: 30px;
+
+    .logo {
+      justify-self: center;
+      @include wh(68px, 70px);
+    }
+
+    *:nth-child(3) {
+      justify-self: end;
+    }
+
+    * {
+      color: get-color(text, 3);
+      text-align: center;
+    }
+  }
+
+  @include mq-max(620) {
+    [class*="container"] {
+      grid-template-columns: 1fr;
+      justify-items: center;
+
+      *:nth-child(3) {
+        justify-self: center;
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+/**
+ *  Page - Treatment
+ *  Header
+ */
+
+.treatment-header {
+  text-align: center;
+  padding-bottom: 90px;
+
+  .header-img {
+    margin-bottom: 20px;
+  }
+
+  .header-title {
+    max-width: $col-5;
+    color: get-color(accent, 1);
+  }
+  
+  @include mq-max(900) {
+    padding-bottom: 40px;
+  }
+}

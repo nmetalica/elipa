@@ -1,0 +1,151 @@
+/**
+ *  Page - Home
+ *  Reviews
+ */
+
+.reviews {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background: linear-gradient(180deg, rgba(238, 231, 222, 0) 0%, #E2D7C8 100%);
+
+  .reviews-wrapper {
+    overflow: hidden;
+  }
+
+  .section-header {
+    padding-bottom: 64px;
+
+    .ratings {
+      margin-bottom: 30px;
+      @include flex($align: center, $dir: column, $gap-r: 12px);
+
+      &::before {
+        content: '';
+        display: block;
+        @include wh(150px, 30px);
+        @include background('../../../images/icons/ic-5stars.svg');
+      }
+
+      p {
+        color: get-color(text, 3);
+        @include flex($align: center, $gap: 6px);
+
+        a {
+          font-size: 0;
+          display: block;
+          @include wh(88px, 16px);
+          @include background('../../../images/icons/ic-doctoralia-full.svg');
+        }
+      }
+    }
+
+    .section-title {
+      max-width: 540px;
+      text-align: center;
+    }
+  }
+
+  .reviews-slider {
+    padding-bottom: 80px;
+
+    .reviews-container {
+      @include flex();
+      transition: all 220ms ease-in-out;
+    }
+
+    .review-card {
+      @include wh(100%, $max-w: 25%);
+      flex-shrink: 0;
+      padding-left: 30px;
+
+      .review-author {
+        margin-bottom: 12px;
+      }
+
+      .review-content {
+        max-width: calc(100% - 30px);
+      }
+    }
+  }
+
+  .review-paginator {
+    @include wh(48px, 48px);
+    @include background('../../../images/icons/button/button-review-paginator.svg', $color: #FFFCFA);
+    border-radius: 48px;
+    filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .2));
+
+    &.prev {
+      transform: rotate(180deg);
+    }
+  }
+
+  @include mq-max(1200) {
+    .reviews-slider .review-card {
+      max-width: 33.333%;
+    }
+  }
+
+  @include mq-max(900) {
+    padding-top: 80px;
+    
+    .section-header {
+      padding-bottom: 40px;
+
+      .section-title {
+        max-width: 420px;
+      }
+    }
+
+    .reviews-slider {
+      padding-bottom: 48px;
+
+      .review-card {
+        max-width: 50%;
+        padding-left: 20px;
+      }
+    }
+  }
+
+  @include mq-max(768) {
+    .section-header {
+      .title-wrapper {
+        flex-direction: column;
+      }
+
+      .section-title {
+        margin-bottom: 24px;
+      }
+    }
+
+    .review-paginator {
+      &.prev {
+        order: 2;
+        margin-top: -48px;
+        margin-left: -64px;
+      }
+
+      &.next {
+        margin-right: -64px;
+      }
+    }
+  }
+
+  @include mq-max(680) {
+    .reviews-slider .review-card {
+      .review-author,
+      .review-content {
+        @include wh(100%, $max-w: 100%);
+      }
+
+      padding-right: 20px;
+      max-width: 100%;
+    }
+  }
+
+  @include mq-max(360) {
+    .section-header .ratings p {
+      font-size: 12px;
+      gap: 12px;
+    }
+  }
+}

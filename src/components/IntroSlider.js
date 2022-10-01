@@ -260,13 +260,13 @@ class ReviewsSlider extends React.Component {
             <li className={`slide ${this.state.currentPosition == 0 ? 'active' : ''}`}>
               <h3 className="slide-title title-2">{t('page-home.section-slider.slide-1-title')}</h3>
               <div className="body-large" dangerouslySetInnerHTML={{ __html: t('page-home.section-slider.slide-1-text-1') }}></div>
-              <Link className="slide-action button-regular" to='/concepto'>{t('page-home.section-slider.slide-1-button')}</Link>
+              <Link className="slide-action button-regular-sliders" to='/concepto'>{t('page-home.section-slider.slide-1-button')}</Link>
             </li>
 
             <li className={`slide ${this.state.currentPosition == 1 ? 'active' : ''}`}>
               <h3 className="slide-title title-2">{t('page-home.section-slider.slide-2-title')}</h3>
               <div className="body-large" dangerouslySetInnerHTML={{ __html: t('page-home.section-slider.slide-2-text-1') }}></div>
-              <Link className="slide-action button-regular" to='/pre-diagnostico'>{t('page-home.section-slider.slide-2-button')}</Link>
+              <Link className="slide-action button-regular-sliders" to='/pre-diagnostico'>{t('page-home.section-slider.slide-2-button')}</Link>
             </li>
           </ul>
         </div>

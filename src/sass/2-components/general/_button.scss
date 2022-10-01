@@ -18,6 +18,14 @@
     background-color: get-color(background, 1);
     filter: drop-shadow(0px 0px 30px rgba(0, 0, 0, .2));
   }
+  
+  &-regular-sliders{
+	@extend .button;
+    @extend .button-text-regular;
+    padding: 16px 24px;
+    @include border($all: 1.5px, $color: get-color(accent, 1), $radius: 10px);
+    background-color: get-color(background, 1);
+}
 
   &-large {
     @extend .button;

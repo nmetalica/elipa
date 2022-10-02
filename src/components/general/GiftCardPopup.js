@@ -15,17 +15,17 @@ const GiftCardPopup = (props) => {
 
   const submit = () => {
     if (name && email && message) {
+	alert();
       const serviceId = 'service_0bd181g';
-      const templateId = 'template_fzc9614';
-      const userId = 'krYIhudEa6sP8sP12';
+      const templateId = 'template_w0jnquv';
+      const userId = 'b77jw7LCnhvNVxtb8';
       const templateParams = {
          name,
          email,
          message: `${gift} <br/> ${message} <br/> ${receiver} <br/> ${cardText}`,
          contactSubject: 'Giftcard Request'
       };
-
-      emailjs.send(serviceId, templateId, templateParams, userId)
+      emailjs.send(serviceId, templateId, templateParams)
              .then(response => console.log(response))
              .then(error => console.log(error));
 

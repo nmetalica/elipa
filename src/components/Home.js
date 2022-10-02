@@ -48,7 +48,7 @@ const Home = () => {
               </nav>
             </div>
           </div>
-
+<hr></hr>
           <div className="hero-intro flex-center-col">
             <IntroSlider />
           </div>

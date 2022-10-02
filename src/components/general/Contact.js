@@ -18,17 +18,20 @@ const Contact = () => {
       const serviceId = 'service_0bd181g';
       const templateId = 'template_w0jnquv';
       const userId = 'b77jw7LCnhvNVxtb8';
-      const templateParams = {
+      
+      emailjs.init(userId);
+     
+      
+      
+      
+      var templateParams = {
          name,
          email,
          subject,
          contactSubject: 'Contact Request',
          message
       };
-
-      emailjs.send(serviceId, templateId, templateParams, userId)
-             .then(response => console.log(response))
-             .then(error => console.log(error));
+        emailjs.send(serviceId,templateId,templateParams);
 
       setName('');
       setEmail('');
@@ -66,8 +69,8 @@ const Contact = () => {
 
             <div className="input-group">
               <label htmlFor="subject">{t('section-contact.form-subject')}</label>
-              <select name="subject" onChange={e => setSubject(e.target.value)} value={subject}>
-                <option value="consulta-online">{t('section-contact.form-subject-1')}</option>
+              <select name="subject" onChange={e => setSubject(e.target.value)} >
+                <option value="consulta-online" >{t('section-contact.form-subject-1')}</option>
                 <option value="pedir-una-cita">{t('section-contact.form-subject-2')}</option>
                 <option value="urgencia">{t('section-contact.form-subject-3')}</option>
                 <option value="outro">{t('section-contact.form-subject-4')}</option>
